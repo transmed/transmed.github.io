@@ -14,7 +14,7 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
-Link to the ISMB 2020 website is:[here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB 2021 website is:[here](https://www.iscb.org/ismbeccb2021).
 
 Please note:
 
@@ -111,7 +111,7 @@ If you have any questions, please do not hesitate to contact us: [transmed-cosi-
 
 ## Follow us
 
-Google Groups: [TransMed2020 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
+Google Groups: [TransMed2021 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
 Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
 
