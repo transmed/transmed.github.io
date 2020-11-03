@@ -2,15 +2,15 @@
 layout: default
 ---
 
-[Figure1]: pics/Figure1.png
-
 # TransMed 2021
 
 ## Description
 
-Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
+<img src="pics/transmed_logo.jpg" alt="drawin" style="float: left" width="120"/> 
 
-In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine.
+<p style="text-align: justify;"> Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
+
+In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. </p>
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
