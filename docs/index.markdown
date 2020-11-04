@@ -109,6 +109,8 @@ Name, Institute, Country
 
 If you have any questions, please do not hesitate to contact us: [transmed-cosi-chair@googlegroups.com](transmed-cosi-chair@googlegroups.com).
 
+Join our [slack workspace](https://ismbtransmedcosi.slack.com)
+
 ## Follow us
 
 Google Groups: [TransMed2021 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
