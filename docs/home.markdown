@@ -115,7 +115,7 @@ If you have any questions, please do not hesitate to contact us: [transmed-cosi-
 
 ## Follow us
 
-Google Groups: [TransMed2020 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
+Google Groups: [TransMed2021 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
 Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
 
