@@ -103,6 +103,8 @@ Wei Gu, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/l
 
 Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk/), UK
 
+Irina Balaur, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
 ## Programme committee (alphabetical order)
 
 Name, Institute, Country
