@@ -16,7 +16,7 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
-Link to the ISMB 2020 website is:[here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB 2020 website is: [here](https://www.iscb.org/ismbeccb2021).
 
 Please note:
 
@@ -78,7 +78,7 @@ Authors are invited to submit abstracts (1 page) for presentations and posters b
 
 For proceedings submission the deadline is <span style="color:blue">TBD, 2021</span>.
 
-Please use the EasyChair submission system.
+Please use the [EasyChair submission](https://easychair.org/my/conference?conf=ismbeccb2021abstracts) system.
 
 ## Key dates
 
