@@ -20,9 +20,9 @@ Please note:
 
 <span style="color:blue">The meeting is planned to be in the form of **onsite meeting**, with the possiblity to be converted to an **online meeting**.</span>
 
-<span style="color:red">**Proceedings Submission Deadline**: TBD 2021. Detail information can be found [here](https://www.iscb.org/ismbeccb2021-keydates).</span>
+<span style="color:red">**Proceedings Submission Deadline**: TBD 2021. Detailed information can be found [here](https://www.iscb.org/ismbeccb2021-keydates).</span>
 
-<span style="color:red">The TransMed COSI meeting will take place on July 25th, 2021, during the **ISMB/ECCB 2021 event in Lyon, France**.</span>
+<span style="color:red">The TransMed COSI meeting will take place on July 26th, 2021, during the **ISMB/ECCB 2021 event in Lyon, France**.</span>
 
 ## Topics of interest
 
