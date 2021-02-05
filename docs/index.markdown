@@ -14,7 +14,7 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
-Link to the ISMB 2021 website is:[here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
 
 Please note:
 
@@ -37,7 +37,7 @@ Topics of interest include, but are not limited to:
 
 ## Keynote speakers
 
-[Name](url), Institute
+[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl), Harvard Medical School
 
 Keynote title: TBD
 
@@ -100,6 +100,8 @@ Maria Secrier, [University College London](https://www.ucl.ac.uk/), UK
 Wei Gu, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
 Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk/), UK
+
+Irina Balaur, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
 ## Programme committee (alphabetical order)
 
