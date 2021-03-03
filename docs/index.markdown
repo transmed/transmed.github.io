@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Index
+permalink: /index/
+order: 1
 ---
 
 # TransMed 2021
