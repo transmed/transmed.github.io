@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Home 
+permalink: /home/
 ---
 
 [Figure1]: pics/Figure1.png
