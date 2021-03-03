@@ -2,6 +2,7 @@
 layout: page
 title: Home 
 permalink: /home/
+order: 1
 ---
 
 [Figure1]: pics/Figure1.png
