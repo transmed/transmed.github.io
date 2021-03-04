@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: Repository
 permalink: /repository/
-order: 2
 ---
 
 test
