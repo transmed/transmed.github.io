@@ -36,6 +36,7 @@ plugins:
 # Page order
 header_pages:
  - home.markdown
+ - repository.markdown
  - about.markdown
  - team.markdown
 
