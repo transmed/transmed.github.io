@@ -7,4 +7,4 @@ permalink: /open-positions/
 If you have open positions on translational research in your Group, please do not hesitate to contact us!
 
 01/02/2021
-Open position at LCSB, University of Luxembourg. Please check position description<a href="../jobs/preadapt_postdoc_position_2021.pdf">here</a>.
+Open position at LCSB, University of Luxembourg. Please check position  <a href="../jobs/preadapt_postdoc_position_2021.pdf">here</a>.
