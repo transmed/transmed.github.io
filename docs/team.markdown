@@ -18,14 +18,15 @@ permalink: /team/
      <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../images/team/MariaSecrier.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Maria Secrier</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Lecturer<br />University College London, UK</font></p></td>
     </tr>
+    <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../images/team/WeiGu.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Wei Gu</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Senior Researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</font></p></td>
     </tr>
-    </tr>
+    <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../images/team/MansoorSaqi.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Mansoor Saqi</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Translational Bioinformatics, Honorary Senior Lecture <br />Faculty of Life Sciences & Medicine, NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust and King's College London, UK</font></p></td>
     </tr>
-  <tr>
+    <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="110"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
     </tr>
