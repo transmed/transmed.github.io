@@ -37,7 +37,7 @@ plugins:
 header_pages:
  - home.markdown
  - about.markdown
- - team
+ - team.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
