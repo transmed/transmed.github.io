@@ -37,6 +37,7 @@ plugins:
 header_pages:
  - home.markdown
  - repository.markdown
+ - jobs.markdown
  - about.markdown
  - team.markdown
 
