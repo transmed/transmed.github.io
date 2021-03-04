@@ -1,0 +1,39 @@
+---
+layout: page
+title: Team
+permalink: /team/
+---
+
+
+# Contact
+
+To contact organizers please use this email address:  
+[irina.a.balaur@gmail.com ](mailto:irinaa.balaur@gmail.com)  
+
+Project coordinators:  
+Irina Balaur [irina.a.balaur@gmail.com ](mailto:irinaa.balaur@gmail.com)  
+
+<!--# Availability
+The Metabolism Regulation maps are available as an open access resource under the terms of the [Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/). This applies to map images, downloadable map files and annotation data from maps.-->
+
+# Project team
+
+[Irina Balaur](#IrinaBalaur), [Reinhard Schneider](#ReinhardSchneider)   
+
+
+<table>
+    <tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="110"/></a></td>
+    <td style="width:300px; vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg<br />Contribution: Project coordination, Recon2Neo4j, <a href="../lists/">Reactome-Recon lists</a></font></p></td>
+    </tr>
+    <tr>
+    
+    <tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="110"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Reinhard Schneider</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Bioinformatics Core Facility<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg<br />Contribution: Support at the LCSB, MINERVA support</font></p></td>
+    </tr>
+</table>
+
+<br />
+
+
