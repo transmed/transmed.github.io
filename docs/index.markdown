@@ -25,22 +25,22 @@ Please note:
 Topics of interest include, but are not limited to:
 
 <p style="text-align: justify;">
-  * **Clinical and molecular data storage and integration infrastructure**, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
+ * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
 
 <p style="text-align: justify;">
-  * **Curation and harmonization of clinical, ‘omics and imaging data**, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+  * <b>Curation and harmonization of clinical, ‘omics and imaging data</b>, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
 </p>
 <p style="text-align: justify;">
-  * **Data analytics for patient stratification, biomarker and target discovery**, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
+  * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
 </p>
 <p style="text-align: justify;">
-  * **Computational approaches for target selection and drug discovery**, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+  * <b>Computational approaches for target selection and drug discovery</b>, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
 </p>
 <p style="text-align: justify;">
-  * **ADME/PK and Tox models**, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+  * <b>ADME/PK and Tox models</b>, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
 </p>
 <p style="text-align: justify;">
-  * **Translational Medicine Informatics Applications/Case Studies**, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
+ * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
 ## Keynote speakers
