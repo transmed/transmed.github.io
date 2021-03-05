@@ -14,15 +14,11 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
-Link to the ISMB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
 
 Please note:
 
-<span style="color:blue">The meeting is planned to be in the form of **onsite meeting**, with the possiblity to be converted to an **online meeting**.</span>
-
-<span style="color:red">**Proceedings Submission Deadline**: TBD 2021. Detailed information can be found [here](https://www.iscb.org/ismbeccb2021-keydates).</span>
-
-<span style="color:red">The TransMed COSI meeting will take place on July 26th, 2021, during the **ISMB/ECCB 2021 event in Lyon, France**.</span>
+<span style="color:blue">The TransMed 2021 meeting is a **virtual event** that takes place on July 26th, 2021, during the **ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
 
@@ -43,22 +39,6 @@ Keynote title: TBD
 
 Abstract: TBD
 
----
-
-[Name](url), Institute
-
-Keynote title: TBD
-
-Abstract: TBD
- 
----
-
-[Name](url), Institute
-
-Keynote title: TBD
-
-Abstract: TBD
-
 ## Agenda
 
 <span style="color:red">**Time zone: CEST**</span> 
@@ -72,19 +52,17 @@ Abstract: TBD
 
 ## Abstract submission
 
-Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:blue">TBD, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">TBD, 2021</span>.
+Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:blue">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
 
-For proceedings submission the deadline is <span style="color:blue">TBD, 2021</span>.
+For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
 
-Please use the EasyChair submission system.
+Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts).
+
+Note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2021.
 
 ## Key dates
 
-Detail information can be found: [here](https://www.iscb.org/ismbeccb2021-keydates).
-
-## Venue
-
-<span style="color:blue">The meeting is planned to be in the form of **onsite meeting**, with the possiblity to be converted to an **online meeting**.</span>
+Detailed information can be found: [here](https://www.iscb.org/ismbeccb2021-keydates).
 
 ## Registration
 Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismbeccb2021-registration).
@@ -109,7 +87,7 @@ Name, Institute, Country
 
 ## Contact us
 
-If you have any questions, please do not hesitate to contact us: [transmed-cosi-chair@googlegroups.com](transmed-cosi-chair@googlegroups.com).
+If you have any questions, please do not hesitate to contact us: [transmed-coord@googlegroups.com](mailto:transmed-coord@googlegroups.com).
 
 Join our [slack workspace](https://ismbtransmedcosi.slack.com)
 
@@ -119,7 +97,7 @@ Google Groups: [TransMed2021 Google Group](https://groups.google.com/forum/?hl=e
 
 Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
 
-Linkedin: [Translational Medicine Informatics & Applications Group](https://www.linkedin.com/groups/8478286)
+Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/groups/8478286)
 
 ## Acknowledgement
 
