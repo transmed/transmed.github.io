@@ -26,7 +26,7 @@ Topics of interest include, but are not limited to:
 
 <p style="text-align: justify;">
   * **Clinical and molecular data storage and integration infrastructure**, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
-</p>
+
 <p style="text-align: justify;">
   * **Curation and harmonization of clinical, ‘omics and imaging data**, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
 </p>
