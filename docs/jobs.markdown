@@ -6,7 +6,7 @@ permalink: /open-positions/
 
 # Job positions
 
-If you have open positions on translational research in your Group and wish to share, please contact us!
+If you have open positions on translational research in your Group and wish to share, please contact us on our [slack workspace](https://ismbtransmedcosi.slack.com)!
 
 ## 01/02/2021
 
