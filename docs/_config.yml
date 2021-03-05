@@ -35,10 +35,7 @@ plugins:
 
 # Page order
 header_pages:
- - home.markdown
- - repository.markdown
  - jobs.markdown
- - about.markdown
  - team.markdown
 
 # Exclude from processing.
