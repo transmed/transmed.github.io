@@ -18,7 +18,7 @@ Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021)
 
 Please note:
 
-<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26th, 2021, during the ISMB/ECCB 2021 conference. </span>
+<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26, 2021, during the ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
 
@@ -52,7 +52,7 @@ Abstract: TBD
 
 ## Abstract submission
 
-Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:blue">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
+Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
 
 For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
 
