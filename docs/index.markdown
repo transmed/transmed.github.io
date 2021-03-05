@@ -18,7 +18,7 @@ Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021)
 
 Please note:
 
-<span style="color:blue">The TransMed 2021 meeting is a **virtual event** that takes place on July 26th, 2021, during the **ISMB/ECCB 2021 conference. </span>
+<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26th, 2021, during the ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
 
@@ -58,7 +58,7 @@ For proceedings submission, the deadline is <span style="color:blue">January 28,
 
 Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts).
 
-Note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2021.
+Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2021.
 
 ## Key dates
 
@@ -89,7 +89,7 @@ Name, Institute, Country
 
 If you have any questions, please do not hesitate to contact us: [transmed-coord@googlegroups.com](mailto:transmed-coord@googlegroups.com).
 
-Join our [slack workspace](https://ismbtransmedcosi.slack.com)
+Join our [slack workspace](https://ismbtransmedcosi.slack.com).
 
 ## Follow us
 
