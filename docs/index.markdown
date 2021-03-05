@@ -21,15 +21,26 @@ Please note:
 <span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26, 2021, during the ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
-<p style="text-align: justify;">
+
 Topics of interest include, but are not limited to:
 
-  * **Clinical and molecular data storage and integration infrastructure**, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine
+<p style="text-align: justify;">
+  * **Clinical and molecular data storage and integration infrastructure**, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
+</p>
+<p style="text-align: justify;">
   * **Curation and harmonization of clinical, ‘omics and imaging data**, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+</p>
+<p style="text-align: justify;">
   * **Data analytics for patient stratification, biomarker and target discovery**, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
-  * **Computational approaches for target selection and drug discovery**, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis.
-  * **ADME/PK and Tox models**, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models.
-  * **Translational Medicine Informatics Applications/Case Studies**, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application.
+</p>
+<p style="text-align: justify;">
+  * **Computational approaches for target selection and drug discovery**, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+</p>
+<p style="text-align: justify;">
+  * **ADME/PK and Tox models**, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+</p>
+<p style="text-align: justify;">
+  * **Translational Medicine Informatics Applications/Case Studies**, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
 ## Keynote speakers
