@@ -10,18 +10,18 @@ layout: default
 
 <p style="text-align: justify;"> Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
 
-In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. </p>
+In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
 
 Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
 
-Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).</p>
 
 Please note:
 
 <span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26, 2021, during the ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
-
+<p style="text-align: justify;">
 Topics of interest include, but are not limited to:
 
   * **Clinical and molecular data storage and integration infrastructure**, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine
@@ -30,6 +30,7 @@ Topics of interest include, but are not limited to:
   * **Computational approaches for target selection and drug discovery**, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis.
   * **ADME/PK and Tox models**, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models.
   * **Translational Medicine Informatics Applications/Case Studies**, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application.
+</p>
 
 ## Keynote speakers
 
@@ -100,3 +101,4 @@ Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/gro
 ## Acknowledgement
 
 The current TransMed logo was designed by Belinda Hanson.
+
