@@ -99,11 +99,9 @@ Name, Institute, Country
 
 ## Contact us
 
-If you have any questions, please do not hesitate to contact us: [transmed-coord@googlegroups.com](mailto:transmed-coord@googlegroups.com) or to join our [slack workspace](https://ismbtransmedcosi.slack.com).
+If you have any questions, please do not hesitate to contact us by our [slack workspace](https://ismbtransmedcosi.slack.com).
 
 ## Follow us
-
-Google Groups: [TransMed2021 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
 Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
 
