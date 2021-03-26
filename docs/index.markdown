@@ -51,6 +51,13 @@ Keynote title: TBD
 
 Abstract: TBD
 
+	
+[Dr Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/), ELIXIR - EUROPE
+
+Keynote title: TBD
+
+Abstract: TBD
+
 ## Agenda
 
 <span style="color:red">**Time zone: CEST**</span> 
