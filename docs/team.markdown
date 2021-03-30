@@ -16,7 +16,7 @@ permalink: /team/
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Reinhard Schneider</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Bioinformatics Core Facility<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg </font></p></td>
     </tr>
     <tr>
-     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/MariaSecrier1.jpg" width="110"/></td>
+     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/MariaSecrier.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Maria Secrier</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Lecturer<br />University College London, UK</font></p></td>
     </tr>
     <tr>
