@@ -1,3 +1,9 @@
+---
+layout: default
+title: Previous TransMed meetings
+permalink: /TransMed_history/
+---
+
 Information of previous TransMed meetings:
 TransMed 2020. 
 TransMed 2019.
