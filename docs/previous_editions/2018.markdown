@@ -14,7 +14,7 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red"> Proceedings Submission Deadline: Monday, January 29, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/_Proceedings_)
+* <span style="color:red"> Proceedings Submission Deadline: Monday, January 29, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/Proceedings)
 
 * <span style="color:red">Non-Proceedings Submission Deadline: Thursday, April 5, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-keydates)
 

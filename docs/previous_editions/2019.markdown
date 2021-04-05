@@ -14,7 +14,7 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">'''Proceedings Submission Deadline: Monday, January 28, 2019'''</span>. [Detail information.](https://www.iscb.org/ismbeccb2019-submit/proceedings)
+* <span style="color:red"> Proceedings Submission Deadline: Monday, January 28, 2019</span>. [Detail information.](https://www.iscb.org/ismbeccb2019-submit/Proceedings)
 
 * <span style="color:red">The TransMed COSI meeting will take place on July 22nd, 2019, during the [ISMB/ECCB 2019](https://www.iscb.org/cms_addon/conferences/ismbeccb2019/transmed.php), Basel, Switzerland.
 
@@ -41,125 +41,54 @@ Topics of interest include, but are not limited to:
  * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
-## Keynote speakers 
+## **Keynote** speakers 
 
 [Isaac Kohane](https://dbmi.hms.harvard.edu/zak), Department of Biomedical Informatics, Harvard Medical School
 
-Keynote title: Five ways computational biologists can accelerate medicine
+**Keynote** title: Five ways computational biologists can accelerate medicine
 
 [Burkhard Rost](http://www.professoren.tum.de/rost_burkhard/), Technische Universität München
 
-Keynote title: SNAP variation between people + Deep Learning - lessons for protein structure prediction
+**Keynote** title: SNAP variation between people + Deep Learning | lessons for protein structure prediction
 
 [Bissan Al-Lazikani](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-bissan-al-lazikani), The Institute of Cancer Research
 
-Keynote title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
+**Keynote** title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
 
 ## Agenda 
 
-{| class="wikitable"
-! Start time
-! End time
-! Topic
-|-
-| 10:15 AM
-| 10:20 AM
-| Welcome & Start - <span style="color:red">Reinhard Schneider</span>
-|-
-| style="background-color:#6495ed;" | 10:20 AM
-| style="background-color:#6495ed;" | 11:10 AM
-| style="background-color:#6495ed;" | Keynote - Five ways computational biologists can accelerate medicine - <span style="color:red">Isaac Kohane</span>
-|-
-| style="background-color:#ffe4e1;" | 11:10 AM
-| style="background-color:#ffe4e1;" | 11:20 AM
-| style="background-color:#ffe4e1;" | Proceedings - Prioritising cancer therapeutic targets through CRISPR-Cas9 screens and multi-omics data integration - <span style="color:red">Francesco Iorio</span>
-|-
-| style="background-color:#ffe4e1;" | 11:20 AM
-| style="background-color:#ffe4e1;" | 11:40 AM
-| style="background-color:#ffe4e1;" | Proceedings - Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition - <span style="color:red">Michio Iwata</span>
-|-
-| style="background-color:#ffe4e1;" | 11:40 AM
-| style="background-color:#ffe4e1;" | 12:00 PM
-| style="background-color:#ffe4e1;" | Proceedings - Identifying and ranking potential driver genes of Alzheimer's Disease using multi-view evidence aggregation - <span style="color:red">Sumit Mukherjee</span>
-|-
-| style="background-color:#ffe4e1;" | 12:00 PM
-| style="background-color:#ffe4e1;" | 12:20 PM
-| style="background-color:#ffe4e1;" | Proceedings - Drug repositioning based on bounded nuclear norm regularization - <span style="color:red">Mengyun Yang</span>
-|-
-| style="background-color:#ffe4e1;" | 12:20 PM
-| style="background-color:#ffe4e1;" | 12:40 PM
-| style="background-color:#ffe4e1;" | Proceedings - Enhancing the Drug Discovery Process: Bayesian Inference for the Analysis and Comparison of Dose-Response Experiments - <span style="color:red">Caroline Labelle</span>
-|-
-| style="background-color:#f8ff00;" | 12:40 PM
-| style="background-color:#f8ff00;" | 2:00 PM
-| style="background-color:#f8ff00;" | Lunch
-|-
-| style="background-color:#6495ed;" | 2:00 PM
-| style="background-color:#6495ed;" | 2:40 PM
-| style="background-color:#6495ed;" | Keynote - SNAP variation between people + Deep Learning - lessons for protein structure prediction - <span style="color:red">Burkhard Rost</span>
-|-
-| style="background-color:#ffe4e1;" | 2:40 PM
-| style="background-color:#ffe4e1;" | 3:00 PM
-| style="background-color:#ffe4e1;" | Proceedings - Representation Transfer for Differentially Private Drug Sensitivity Prediction - <span style="color:red">Antti Honkela</span>
-|-
-| style="background-color:#ffe4e1;" | 3:00 PM
-| style="background-color:#ffe4e1;" | 3:20 PM
-| style="background-color:#ffe4e1;" | Proceedings - Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction - <span style="color:red">Olivier Gevaert</span>
-|-
-| style="background-color:#ffe4e1;" | 3:20 PM
-| style="background-color:#ffe4e1;" | 3:30 PM
-| style="background-color:#ffe4e1;" | Rare Disease Gene Prioritization Using MEDLINE Derived Association Network - <span style="color:red">Vg Saipradeep</span>
-|-
-| style="background-color:#ffe4e1;" | 3:30 PM
-| style="background-color:#ffe4e1;" | 3:40 PM
-| style="background-color:#ffe4e1;" | Identifying Biomarkers for Precision Cancer Medicine using Patient-Derived Xenografts - <span style="color:red">Arvind Singh Mer</span>
-|-
-| style="background-color:#ffe4e1;" | 3:40 PM
-| style="background-color:#ffe4e1;" | 3:50 PM
-| style="background-color:#ffe4e1;" | Harnessing genetic interactions to advance precision cancer medicine - <span style="color:red">Joo Sang Lee</span>
-|-
-| style="background-color:#ffe4e1;" | 3:50 PM
-| style="background-color:#ffe4e1;" | 4:00 PM
-| style="background-color:#ffe4e1;" | Combining Machine Learning with Single-cell Analysis for Individualized Precision Medicine - <span style="color:red">Benedict Anchang</span>
-|-
-| style="background-color:#f8ff00;" | 4:00 PM
-| style="background-color:#f8ff00;" | 4:40 PM
-| style="background-color:#f8ff00;" | Break
-|-
-| style="background-color:#6495ed;" | 4:40 PM
-| style="background-color:#6495ed;" | 5:10 PM
-| style="background-color:#6495ed;" | Keynote - Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine  - <span style="color:red">Bissan Al-Lazikani</span>
-|-
-| style="background-color:#ffe4e1;" | 5:10 PM
-| style="background-color:#ffe4e1;" | 5:20 PM
-| style="background-color:#ffe4e1;" | Genetic alterations driving metastatic colony formation are acquired outside of the primary tumour in melanoma - <span style="color:red">Martin Hoffmann</span>
-|-
-| style="background-color:#ffe4e1;" | 5:20 PM
-| style="background-color:#ffe4e1;" | 5:30 PM
-| style="background-color:#ffe4e1;" | Using genetic similarities among ageing-related diseases to understand and intervene ageing - <span style="color:red">Handan Melike Donertas</span>
-|-
-| style="background-color:#ffe4e1;" | 5:30 PM
-| style="background-color:#ffe4e1;" | 5:40 PM
-| style="background-color:#ffe4e1;" | Clustering multivariate longitudinal clinical patient data using variational deep embedding with recurrence - <span style="color:red">Johann de Jong</span>
-|-
-| style="background-color:#ffe4e1;" | 5:40 PM
-| style="background-color:#ffe4e1;" | 5:50 PM
-| style="background-color:#ffe4e1;" | From question to publication in five days - how OHDSI is changing medical evidence generation through open science - <span style="color:red">Kees van Bochove</span>
-|-
-| style="background-color:#ffe4e1;" | 5:50 PM
-| style="background-color:#ffe4e1;" | 6:00 PM
-| style="background-color:#ffe4e1;" | Invited talk - CDx / NGS & Regulation: 5 perspectives from the Pistoia Alliance - <span style="color:red">Dominic Clark</span>
-|-
-| 6:00 PM
-| 
-| Conclusion Remarks - <span style="color:red">Venkata Satagopam</span>
-|}
+|Start time|End time|Type|Topic|Speaker|
+|------------|---------|---------|---------|---------|
+|10:15 AM | 	10:20 AM 	|Welcome & Start | Reinhard Schneider |
+|10:20 AM | 11:10 AM 	**Keynote** | Five ways computational biologists can accelerate medicine | Isaac Kohane |
+|11:10 AM | 11:20 AM | _Proceedings_ | Prioritising cancer therapeutic targets through CRISPR-Cas9 screens and multi-omics data integration | Francesco Iorio |
+|11:20 AM | 11:40 AM | _Proceedings_ | Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition | Michio Iwata |
+|11:40 AM | 12:00 PM | _Proceedings_ | Identifying and ranking potential driver genes of Alzheimer's Disease using multi-view evidence aggregation | Sumit Mukherjee |
+|12:00 PM | 12:20 PM | _Proceedings_ | Drug repositioning based on bounded nuclear norm regularization | Mengyun Yang |
+|12:20 PM | 12:40 PM | _Proceedings_ | Enhancing the Drug Discovery Process: Bayesian Inference for the Analysis and Comparison of Dose-Response Experiments | Caroline Labelle |
+|12:40 PM | 2:00 PM | | Lunch | All |
+|2:00 PM | 2:40 PM |**Keynote** | SNAP variation between people + Deep Learning - lessons for protein structure prediction | Burkhard Rost |
+|2:40 PM | 3:00 PM | _Proceedings_ | Representation Transfer for Differentially Private Drug Sensitivity Prediction | Antti Honkela |
+|3:00 PM | 3:20 PM | _Proceedings_ | Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction | Olivier Gevaert |
+|3:20 PM | 3:30 PM | |Rare Disease Gene Prioritization Using MEDLINE Derived Association Network | Vg Saipradeep |
+|3:30 PM | 3:40 PM | |Identifying Biomarkers for Precision Cancer Medicine using Patient-Derived Xenografts | Arvind Singh Mer |
+|3:40 PM | 3:50 PM | |Harnessing genetic interactions to advance precision cancer medicine | Joo Sang Lee |
+|3:50 PM | 4:00 PM | |Combining Machine Learning with Single-cell Analysis for Individualized Precision Medicine | Benedict Anchang |
+|4:00 PM | 4:40 PM | | Break | All|
+|4:40 PM | 5:10 PM 	|**Keynote** | Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine | Bissan Al-Lazikani |
+|5:10 PM | 5:20 PM | |Genetic alterations driving metastatic colony formation are acquired outside of the primary tumour in melanoma | Martin Hoffmann |
+|5:20 PM | 5:30 PM | | Using genetic similarities among ageing-related diseases to understand and intervene ageing | Handan Melike Donertas |
+|5:30 PM | 5:40 PM | | Clustering multivariate longitudinal clinical patient data using variational deep embedding with recurrence | Johann de Jong |
+|5:40 PM | 5:50 PM | | From question to publication in five days - how OHDSI is changing medical evidence generation through open science | Kees van Bochove |
+|5:50 PM | 6:00 PM | Invited talk | CDx / NGS & Regulation: 5 perspectives from the Pistoia Alliance | Dominic Clark |
+|6:00 PM| |		Conclusion Remarks | Venkata Satagopam |
+
 
 ## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">April 11th, 2019</span>. Acceptance notification will be sent out by <span style="color:red"> May 9th, 2019</span>.
 
-For proceedings submission the deadline is <span style="color:red">Monday, January 28, 2019</span>
+For  Proceedings submission the deadline is <span style="color:red">Monday, January 28, 2019</span>
 
 Please use the [EasyChair](https://easychair.org/) submission system.
 

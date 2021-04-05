@@ -15,11 +15,11 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">'''The meeting will be in the form of online meeting'''</span>. 
+* <span style="color:red">The meeting will be in the form of online meeting</span>. 
 
-* <span style="color:red">'''Proceedings Submission Deadline: Monday, January 30, 2020'''</span>. [Detail information.](https://www.iscb.org/ismb2020-submit/proceedings)
+* <span style="color:red">Proceedings Submission Deadline: Monday, January 30, 2020</span>. [Detail information.](https://www.iscb.org/ismb2020-submit/Proceedings)
 
-* <span style="color:red">'''The TransMed COSI meeting will take place on July 15th, 2020, during the [ISMB 2020 Virtual event](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/transmedcosi)'''. 
+* <span style="color:red">The TransMed COSI meeting will take place on July 15th, 2020, during the [ISMB 2020 Virtual event](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/transmedcosi). 
 
 ## Topics of interest
 
@@ -44,11 +44,11 @@ Topics of interest include, but are not limited to:
  * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
-## Keynote speakers 
+## | **Keynote**| speakers 
 
 [Jason H. Moore](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452), Edward Rose, M.D. and Elizabeth Kirk Rose, M.D. Professor, University of Pennsylvania, United States
 
-Keynote title: 20 Challenges of AI in Medicine
+| **Keynote**| title: 20 Challenges of AI in Medicine
 
 Abstract: The opportunities for using artificial intelligence (AI) and machine learning to improve healthcare are endless. Recent successes include the use of deep learning to identify clinically important patterns in radiographic images. However, there are numerous important challenges which must be addressed before AI can become widely adopted and incorporated into clinical workflows. Some of these challenges come from healthcare data. For example, clinical data from electronic health records (EHR) are notoriously noisy and incomplete. Some of these challenges come from the limitations of AI algorithms. For example, each algorithm looks at data in a different manner. How do you know which are the right methods to employ for a given data set? We will review 10 important clinical data challenges and 10 AI challenges which can impede progress in this area. A number of specific examples and some possible solutions will be provided.
 
@@ -56,96 +56,41 @@ Abstract: The opportunities for using artificial intelligence (AI) and machine l
 
 [Atul Butte](https://profiles.ucsf.edu/atul.butte), Priscilla Chan and Mark Zuckerberg Distinguished Professor of Pediatrics, Bioengineering & Therapeutic Sciences, and Epidemiology & Biostatistics at UCSF, United States
 
-Keynote title: TBD
+| **Keynote**| title: TBD
 
 Abstract: TBD
 
 ## Agenda 
 <span style="color:red">'''Time zone: EDT'''</span>
 
-{| class="wikitable"
-! Start time
-! End time
-! Topic
-|-
-| style="background-color:#6495ed;" | 10:40 AM
-| style="background-color:#6495ed;" | 11:20 AM
-| style="background-color:#6495ed;" | Keynote (Live-stream) - 20 Challenges of AI in Medicine - <span style="color:red">Jason H. Moore</span>
-|-
-| style="background-color:#ffe4e1;" | 11:20 AM
-| style="background-color:#ffe4e1;" | 11:40 AM
-| style="background-color:#ffe4e1;" | Proceedings (Pre-recorded with live Q&A)- Privacy-preserving Construction of Generalized Linear Mixed Model for Biomedical Computation - <span style="color:red">Rui Zhu</span>
-|-
-| style="background-color:#ffe4e1;" | 12:00 PM
-| style="background-color:#ffe4e1;" | 12:20 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - Longitudinal multi-omics profiling reveals two biological seasonal patterns in California - <span style="color:red">Ahmed Metwally</span>
-|-
-| style="background-color:#ffe4e1;" | 12:20 PM
-| style="background-color:#ffe4e1;" | 12:30 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - A versatile non-linear transfer learning framework for correcting pre-clinical-based predictors of drug response - <span style="color:red">Soufiane Mourragui</span>
-|-
-| style="background-color:#f8ff00;" | 12:30 PM
-| style="background-color:#f8ff00;" | 12:40 PM
-| style="background-color:#f8ff00;" | Q&A
-|-
-| style="background-color:#ffe4e1;" | 2:00 PM
-| style="background-color:#ffe4e1;" | 2:20 PM
-| style="background-color:#ffe4e1;" | Proceedings (Pre-recorded with live Q&A) - Robust and accurate deconvolution of tumor populations uncovers evolutionary mechanisms of breast cancer metastasis - <span style="color:red">Yifeng Tao</span>
-|-
-| style="background-color:#ffe4e1;" | 2:20 PM
-| style="background-color:#ffe4e1;" | 2:30 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - Deep Hidden Physics Modeling of Cell Signaling Networks - <span style="color:red">Rune Linding</span>
-|-
-| style="background-color:#ffe4e1;" | 2:30 PM
-| style="background-color:#ffe4e1;" | 2:40 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - A deep transfer learning model for extending in vitro CRISPR-Cas9 viability screens to tumors - <span style="color:red">Yu-Chiao Chiu</span>
-|-
-| style="background-color:#ffe4e1;" | 2:40 PM
-| style="background-color:#ffe4e1;" | 2:50 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - The evolution of homologous repair deficiency in high grade serous ovarian carcinoma - <span style="color:red">Colin Semple</span>
-|-
-| style="background-color:#f8ff00;" | 2:50 PM
-| style="background-color:#f8ff00;" | 3:00 PM
-| style="background-color:#f8ff00;" | Q&A
-|-
-| style="background-color:#ffe4e1;" | 3:20 PM
-| style="background-color:#ffe4e1;" | 3:40 PM
-| style="background-color:#ffe4e1;" | Proceedings (Pre-recorded with live Q&A) - Identifying diagnosis-specific genotype-phenotype associations via joint multi-task sparse canonical correlation analysis and classification - <span style="color:red">Lei Du</span>
-|-
-| style="background-color:#ffe4e1;" | 3:40 PM
-| style="background-color:#ffe4e1;" | 4:00 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS) - <span style="color:red">Jannis Born</span>
-|-
-| style="background-color:#ffe4e1;" | 4:00 PM
-| style="background-color:#ffe4e1;" | 4:20 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - Drug repurposing to improve health and lifespan in humans - <span style="color:red">Handan Melike Donertas</span>
-|-
-| style="background-color:#ffe4e1;" | 4:20 PM
-| style="background-color:#ffe4e1;" | 4:30 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - Patient Derived Xenografts Based Pharmacogenomics for Precision Medicine - <span style="color:red">Arvind Singh Mer</span>
-|-
-| style="background-color:#f8ff00;" | 4:30 PM
-| style="background-color:#f8ff00;" | 4:40 PM
-| style="background-color:#f8ff00;" | Q&A
-|-
-| style="background-color:#ffe4e1;" | 5:00 PM
-| style="background-color:#ffe4e1;" | 5:10 PM
-| style="background-color:#ffe4e1;" | (Pre-recorded with live Q&A) - ReactomeGSA - Efficient Multi-Omics Comparative Pathway Analysis - <span style="color:red">Johannes Griss</span>
-|-
-| style="background-color:#6495ed;" | 5:10 PM
-| style="background-color:#6495ed;" | 5:50 PM
-| style="background-color:#6495ed;" | Keynote (Live-stream) - Precisely Practicing Medicine from 700 Trillion Points of Data - <span style="color:red">Atul Butte</span>
-|-
-| | 5:50 PM
-| | 6:00 PM
-| | Closing remarks (Live-stream) <span style="color:red">Maria Secrier</span>
-|}
+|Start time|End time|Type|Topic|Speaker|
+|------------|---------|---------|---------|---------|
+|10:40 AM | 11:20 AM 	| **Keynote**| (Live-stream) - 20 Challenges of AI in Medicine | **Jason H. Moore**|
+|11:20 AM | 11:40 AM | (Pre-recorded with live Q&A) | Privacy-preserving Construction of Generalized Linear Mixed Model for Biomedical Computation | Rui Zhu |
+|12:00 PM | 12:20 PM |	(Pre-recorded with live Q&A) | Longitudinal multi-omics profiling reveals two biological seasonal patterns in California | Ahmed Metwally |
+|12:20 PM | 12:30 PM 	| (Pre-recorded with live Q&A) | A versatile non-linear transfer learning framework for correcting pre-clinical-based predictors of drug response | Soufiane Mourragui |
+|12:30 PM | 12:40 PM | |Q&A| All |
+|2:00 PM | 2:20 PM | _Proceedings_ (Pre-recorded with live Q&A) | Robust and accurate deconvolution of tumor populations uncovers evolutionary mechanisms of breast cancer metastasis | Yifeng Tao |
+|2:20 PM | 2:30 PM |	(Pre-recorded with live Q&A) | Deep Hidden Physics Modeling of Cell Signaling Networks | Rune Linding |
+|2:30 PM | 2:40 PM |	(Pre-recorded with live Q&A) | A deep transfer learning model for extending in vitro CRISPR-Cas9 viability screens to tumors | Yu-Chiao Chiu |
+|2:40 PM | 2:50 PM |	(Pre-recorded with live Q&A) | The evolution of homologous repair deficiency in high grade serous ovarian carcinoma | Colin Semple |
+|2:50 PM | 3:00 PM | | Q&A | All |
+|3:20 PM | 3:40 PM | _Proceedings_ (Pre-recorded with live Q&A) | Identifying diagnosis-specific genotype-phenotype associations via joint multi-task sparse canonical correlation analysis and classification | Lei Du |
+|3:40 PM | 4:00 PM |	(Pre-recorded with live Q&A) | POCOVID-Net: Automatic Detection of COVID-19 From a New Lung Ultrasound Imaging Dataset (POCUS) - Jannis Born
+|4:00 PM | 4:20 PM |	(Pre-recorded with live Q&A) | Drug repurposing to improve health and lifespan in humans | Handan Melike Donertas
+|4:20 PM | 4:30 PM |	(Pre-recorded with live Q&A) | Patient Derived Xenografts Based Pharmacogenomics for Precision Medicine | Arvind Singh Mer |
+|4:30 PM | 4:40 PM | |Q&A | All|
+|5:00 PM | 5:10 PM |	(Pre-recorded with live Q&A) | ReactomeGSA | Efficient Multi-Omics Comparative Pathway Analysis | Johannes Griss |
+|5:10 PM | 5:50 PM 	| **Keynote**| (Live-stream) | Precisely Practicing Medicine from 700 Trillion Points of Data | **Atul Butte** |
+|5:50 PM | 6:00 PM | | Closing remarks (Live-stream) | Maria Secrier |
+
+
 
 ## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">April 2, 2020</span>. Acceptance notification will be sent out by <span style="color:red"> April 30, 2020</span>.
 
-For proceedings submission the deadline is <span style="color:red">Monday, January 30, 2020</span>
+For Proceedings submission the deadline is <span style="color:red">Monday, January 30, 2020</span>
 
 Please use the [EasyChair](https://easychair.org/conferences/?conf=ismb2020) submission system.
 
