@@ -51,14 +51,14 @@ Topics of interest include, but are not limited to:
 |8,30 |	8,45 |	Intro | Welcome | Reinhard Schneider |
 |8,45 |	9,30 |	**Keynote** | Regulatory Science: a defining element of translational medicine | **Russ Altman** |
 |9,30 |	9,50 |	_Proceedings_| Lynx: Knowledge Base and an Analytical Workbench for Integrative Medicine | Somaye Hashemifar |
-|9,50 |	10,10 |	_Proceedings_| Reproducible Genomic Interpretation Tools for Translational Medicine: Application to An N of 1 Case Study - Kathleen Fisch |
-|10,10 |	10,30 |	_Proceedings_| A deep-learning-based cancer subtyping framework using functional profiles overcomes the intrinsic limitations of signature-gene-based approach - Feng Gao |
+|9,50 |	10,10 |	_Proceedings_| Reproducible Genomic Interpretation Tools for Translational Medicine: Application to An N of 1 Case Study | Kathleen Fisch |
+|10,10 |	10,30 |	_Proceedings_| A deep-learning-based cancer subtyping framework using functional profiles overcomes the intrinsic limitations of signature-gene-based approach | Feng Gao |
 |10,15 |	10,45 |	**`Coffee_Break`**| Morning Coffee|All|
 |10,45 |	12,30 |	| Chair | Irina Balaur |
 |10,45 |	11,30 |	**Keynote** | Mining a large-scale integrated data resource for target and lead discovery | **John Overington** |
 |11,30 |	11,50 |	_Proceedings_| Translational Medicine Informatics using VarElect | Marilyn Safran |
 |11,50 |	12,10 |	_Proceedings_| Individual genome interpretation of rare disorders in newborns | Aashish Adhikari |
-v12,10 | 12,30 |	| Lightning Round 1 slide, 1 poster, 2 minutes | All|
+|12,10 | 12,30 |	| Lightning Round 1 slide, 1 poster, 2 minutes | All|
 |12,30 |	1,30 |	| Lunch + Posters | All |
 |1,30 |	3,30 |	| Chair | Wei Gu |
 |1,30 |	2,15 |	**Keynote** | Enabling the Digital Health Revolution at an Academic Medical Center Through Innovative Uses of Data | **Sean Mooney** |
@@ -201,7 +201,8 @@ We would like to thank our sponsors [Luxembourg Centre For Systems Biomedicine (
 
 <p>
 <img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" alt="drawin" style="float: left" width="120"/> 
-<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" alt="drawin" style="float: right" width="120"/> 
+</p>p><p>
+<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" alt="drawin" style="float: left" width="120"/> 
 </p>
 
 
