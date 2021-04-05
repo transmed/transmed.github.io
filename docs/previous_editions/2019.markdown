@@ -45,22 +45,22 @@ Topics of interest include, but are not limited to:
 
 [Isaac Kohane](https://dbmi.hms.harvard.edu/zak), Department of Biomedical Informatics, Harvard Medical School
 
-**Keynote** title: Five ways computational biologists can accelerate medicine
+Keynote title: Five ways computational biologists can accelerate medicine
 
 [Burkhard Rost](http://www.professoren.tum.de/rost_burkhard/), Technische Universität München
 
-**Keynote** title: SNAP variation between people + Deep Learning | lessons for protein structure prediction
+Keynote title: SNAP variation between people + Deep Learning - lessons for protein structure prediction
 
 [Bissan Al-Lazikani](https://www.icr.ac.uk/our-research/researchers-and-teams/professor-bissan-al-lazikani), The Institute of Cancer Research
 
-**Keynote** title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
+Keynote title: title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
 
 ## Agenda 
 
 |Start time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
-|10:15 AM | 	10:20 AM 	|Welcome & Start | Reinhard Schneider |
-|10:20 AM | 11:10 AM 	**Keynote** | Five ways computational biologists can accelerate medicine | Isaac Kohane |
+|10:15 AM | 	10:20 AM |	|Welcome & Start | Reinhard Schneider |
+|10:20 AM | 11:10 AM |	**Keynote** | Five ways computational biologists can accelerate medicine | Isaac Kohane |
 |11:10 AM | 11:20 AM | _Proceedings_ | Prioritising cancer therapeutic targets through CRISPR-Cas9 screens and multi-omics data integration | Francesco Iorio |
 |11:20 AM | 11:40 AM | _Proceedings_ | Predicting drug-induced transcriptome responses of a wide range of human cell lines by a novel tensor-train decomposition | Michio Iwata |
 |11:40 AM | 12:00 PM | _Proceedings_ | Identifying and ranking potential driver genes of Alzheimer's Disease using multi-view evidence aggregation | Sumit Mukherjee |
