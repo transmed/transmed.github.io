@@ -14,9 +14,9 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">Proceedings Submission Deadline: January 26, 2017</span>
+* <span style="color:red">_Proceedings_ Submission Deadline: January 26, 2017</span>
 
-* <span style="color:red">Non-proceedings Submission Deadline: April 13, 2017</span> 
+* <span style="color:red">Non-_Proceedings_ Submission Deadline: April 13, 2017</span> 
 
 ## Topics of interest
 
@@ -53,41 +53,33 @@ Topics of interest include, but are not limited to:
 
 |Star time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
-| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
-| 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
-| 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
-| 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
-
-
-|Star time|End time|Type|Topic|Speaker|
-|------------|---------|---------|---------|---------|
-|8:30 	8:40 	Intro & Welcome | Reinhard Schneider |
-|8:40 	9:15 	Keynote - Metavariable based genome-phenome integrative analysis to facilitate personalized cancer medicine | Anguraj Sadanandam
-|9:15 	9:30 	Proceedings - Molecular signatures that can be transferred across different omics platforms | Michael Altenbuchinger |
-|9:30 	10:00 	Morning Coffee |
-|10:00 	12:30 	Chair: Mansoor Saqi |
-|10:00 	10:35 	Keynote - The 100,000 genomes project | Tim Hubbard |
-|10:35 	10:50 	Proceedings - Association testing of bisulfite sequencing methylation data via a Laplace approximation - Omer Weissbrod
-|10:50 	11:05 	Proceedings - Identification of Associations between Genotypes and Longitudinal Phenotypes via Temporally-constrained Group Sparse Canonical Correlation Analysis - Xiaoke Hao
-|11:05 	11:20 	Proceedings - Predicting phenotypes from microarrays using amplified, initially marginal, eigenvector regression - Lei Ding
-11:20 	11:35 	Proceedings - Systematic identification of feature combinations for predicting drug response with Bayesian multi-view multi-task linear regression - Muhammad Ammad-Ud-Din
-11:35 	12:30 	Chair: Wei Gu
-11:35 	11:45 	Flashtalk - Epigenomic profiling of glioblastoma through treatment and progression - Johanna Klughammer
-11:45 	12:00 	Talk - Predicting cancer sequential treatments and drug repurposing with SATIE - Héctor Tejero
-12:00 	12:15 	Talk - canSAR: an integrated knowledgebase for cancer research and drug discovery - Elizabeth Coker
-12:15 	12:30 	Talk - Integrative analysis of personalized, multidimensional datasets of glioblastoma patients - Nikolaus Fortelny
-12:30 	14:00 	Lunch + Posters
-2:00 	4:30 	Chair: Venkata Satagopam
-2:00 	2:35 	Keynote - The Internet of FAIR data and Services - Barend Mons
-2:35 	2:50 	Talk - Using Multi-Scale Genetic, Protein, Neuroimaging and Clinical Data for Predicting Alzheimer's Disease and Reconstruction of Relevant Biological Mechanisms - Holger Fröhlich
-2:50 	3:05 	Talk - Understanding human disease relationships through integrated molecular and clinical analysis - Winston Haynes
-3:05 	3:20 	Talk - Integrating personalized gene expression profiles into predictive disease-associated gene pools - Emre Guney
-3:20 	3:35 	Talk - Classification of Paediatric Inflammatory Bowel Disease using Machine Learning - Enrico Mossotto
-3:35 	3:50 	Talk - Pseudotemporal disease trajectories from cross-sectional data - Kieran Campbell
-3:50 	4:00 	Flashtalk - Integrating genomics and transcriptomics to dissect the pathogenic mechanism of X-Linked Dystonia-Parkinsonism - Rachita Yadav
-4:00 	4:10 	Flashtalk - Prediction of HIV-1 sensitivity to broadly neutralizing antibodies shows a trend towards resistance over time - Anna Hake
-4:10 	4:20 	Flashtalk - Understanding human knockouts - Suganthi Balasubramanian
-4:20 	4:30 	Concluding Remarks- Bissan Al-Lazikani
+|8:30 |	8:40 |	| Intro & Welcome | Reinhard Schneider |
+|8:40 |	9:15 |	**Keynote** | Metavariable based genome-phenome integrative analysis to facilitate personalized cancer medicine | **Anguraj Sadanandam** |
+|9:15 |	9:30 |	_Proceedings_ | Molecular signatures that can be transferred across different omics platforms | Michael Altenbuchinger |
+|9:30 |	10:00 | **`Coffee_Break`** | | |
+|10:00 |	12:30 |	|Chair| Mansoor Saqi |
+|10:00 |	10:35 |	**Keynote** | The 100,000 genomes project | **Tim Hubbard** |
+|10:35 |	10:50 |	_Proceedings_ | Association testing of bisulfite sequencing methylation data via a Laplace approximation | Omer Weissbrod |
+|10:50 |	11:05 |	_Proceedings_ | Identification of Associations between Genotypes and Longitudinal Phenotypes via Temporally-constrained Group Sparse Canonical Correlation Analysis | Xiaoke Hao |
+|11:05 |	11:20 |	_Proceedings_ | Predicting phenotypes from microarrays using amplified, initially marginal, eigenvector regression | Lei Ding
+|11:20 |	11:35 |	_Proceedings_ | Systematic identification of feature combinations for predicting drug response with Bayesian multi-view multi-task linear regression | Muhammad Ammad-Ud-Din |
+|11:35 |	12:30 |	| Chair| Wei Gu |
+|11:35 |	11:45 |	Flashtalk | Epigenomic profiling of glioblastoma through treatment and progression | Johanna Klughammer |
+|11:45 |	12:00 |	Talk | Predicting cancer sequential treatments and drug repurposing with SATIE | Héctor Tejero |
+|12:00 |	12:15 |	Talk | canSAR: an integrated knowledgebase for cancer research and drug discovery | Elizabeth Coker
+|12:15 |	12:30 |	Talk | Integrative analysis of personalized, multidimensional datasets of glioblastoma patients | Nikolaus Fortelny |
+|12:30 |	14:00 |	| Lunch + Posters | All |
+|2:00 |	4:30 |	| Chair| Venkata Satagopam |
+|2:00 |	2:35 |	**Keynote** | The Internet of FAIR data and Services | **Barend Mons** |
+|2:35 |	2:50 |	Talk | Using Multi-Scale Genetic, Protein, Neuroimaging and Clinical Data for Predicting Alzheimer's Disease and Reconstruction of Relevant Biological Mechanisms | Holger Fröhlich |
+|2:50 |	3:05 |	Talk | Understanding human disease relationships through integrated molecular and clinical analysis | Winston Haynes |
+|3:05 |	3:20 |	Talk | Integrating personalized gene expression profiles into predictive disease-associated gene pools | Emre Guney |
+|3:20 |	3:35 |	Talk | Classification of Paediatric Inflammatory Bowel Disease using Machine Learning | Enrico Mossotto |
+|3:35 |	3:50 |	Talk | Pseudotemporal disease trajectories from cross-sectional data | Kieran Campbell |
+|3:50 |	4:00 |	Flashtalk | Integrating genomics and transcriptomics to dissect the pathogenic mechanism of X-Linked Dystonia-Parkinsonism | Rachita Yadav |
+|4:00 |	4:10 |	Flashtalk | Prediction of HIV-1 sensitivity to broadly neutralizing antibodies shows a trend towards resistance over time | Anna Hake|
+|4:10 |	4:20 |	Flashtalk | Understanding human knockouts | Suganthi Balasubramanian|
+|4:20 |	4:30 |	| Concluding Remarks |  Bissan Al-Lazikani|
 
 
 
@@ -109,9 +101,9 @@ Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2017)
 
 * <span style="color:#0000FF">TransMed 2017 COSI: July 25, 2017</span>
 
-For Proceedings Submission, please follow [this guideline.](https://www.iscb.org/ismbeccb2017/2929)
+For _Proceedings_ Submission, please follow [this guideline.](https://www.iscb.org/ismbeccb2017/2929)
 
-* Please note: <span style="color:red">'''Proceedings Submission Deadline: January 26, 2017'''</span>
+* Please note: <span style="color:red">'''_Proceedings_ Submission Deadline: January 26, 2017'''</span>
 
 ## Venue 
 
@@ -162,7 +154,7 @@ Olivier Gevaert, Stanford University<br>
 Anna Goldenberg, SickKids Foundation<br>
 Samiul Hasan, GlaxoSmithKline<br>
 Carl Herrmann, University Heidelberg & DKFZ Heidelberg<br>
-Francesco Iorio, EMBL - EBI<br>
+Francesco Iorio, EMBL | EBI<br>
 Roland Krause, University of Luxembourg<br>
 Seunghak Lee, Human Longevity, Inc<br>
 Yu-Chen Lo, Stanford University<br>

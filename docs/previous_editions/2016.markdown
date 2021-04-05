@@ -48,7 +48,7 @@ Topics of interest include, but are not limited to:
 
 |Star time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
-|8,30 |	8,45 |	Intro | Welcome | Reinhard Schneider |
+|8,30 |	8,45 |	| Intro & Welcome | Reinhard Schneider |
 |8,45 |	9,30 |	**Keynote** | Regulatory Science: a defining element of translational medicine | **Russ Altman** |
 |9,30 |	9,50 |	_Proceedings_| Lynx: Knowledge Base and an Analytical Workbench for Integrative Medicine | Somaye Hashemifar |
 |9,50 |	10,10 |	_Proceedings_| Reproducible Genomic Interpretation Tools for Translational Medicine: Application to An N of 1 Case Study | Kathleen Fisch |
@@ -73,105 +73,6 @@ Topics of interest include, but are not limited to:
 |5,45 |	6,00 |	| Concluding Remarks | Bissan Al-Lazikani |
 
 
-
-<!-- {| class="wikitable"
-|-
-!Start time
-!End time
-!Topic
-|-
-|8,30
-|8,45
-|Intro & Welcome - <span style="color:red">Reinhard Schneider</span>
-|-
-|style="background: #6495ED"|8,45
-|style="background: #6495ED"|9,30
-|style="background: #6495ED"|Keynote - ''Regulatory Science:  a defining element of translational medicine'' - <span style="color:red">Russ Altman</span>
-|-
-|style="background: #FFE4E1"|9,30
-|style="background: #FFE4E1"|9,50
-|style="background: #FFE4E1"|''Lynx: Knowledge Base and an Analytical Workbench for Integrative Medicine'' - <span style="color:red">Somaye Hashemifar</span>
-|-
-|style="background: #FFE4E1"|9,50
-|style="background: #FFE4E1"|10,10
-|style="background: #FFE4E1"|''Reproducible Genomic Interpretation Tools for Translational Medicine: Application to An N of 1 Case Study'' - <span style="color:red">Kathleen Fisch</span>
-|-
-|style="background: #FFE4E1"|10,10
-|style="background: #FFE4E1"|10,30
-|style="background: #FFE4E1"|''A deep-learning-based cancer subtyping framework using functional profiles overcomes the intrinsic limitations of signature-gene-based approach'' - <span style="color:red">Feng Gao</span>
-|-
-|style="background: yellow"| 10,15
-|style="background: yellow"|10,45
-|style="background: yellow"|Morning Coffee
-|-
-|10,45
-|12,30
-|Chair: <span style="color:red">Irina Balaur </span>
-|-
-|style="background: #6495ED"|10,45
-|style="background: #6495ED"|11,30
-|style="background: #6495ED"|Keynote - ''Mining a large-scale integrated data resource for target and lead discovery'' - <span style="color:red">John Overington</span>
-|-
-|style="background: #FFE4E1"|11,30
-|style="background: #FFE4E1"|11,50
-|style="background: #FFE4E1"|''Translational Medicine Informatics using VarElect'' - <span style="color:red">Marilyn Safran</span>
-|-
-|style="background: #FFE4E1"|11,50
-|style="background: #FFE4E1"|12,10
-|style="background: #FFE4E1"|''Individual genome interpretation of rare disorders in newborns'' - <span style="color:red">Aashish Adhikari </span>
-|-
-|style="background:  	#98FB98"|12,10
-|style="background:  	#98FB98"|12,30
-|style="background:  	#98FB98"|Lightning Round  1 slide, 1 poster, 2 minutes
-|-
-|style="background: yellow"|12,30
-|style="background: yellow"|1,30
-|style="background: yellow"|Lunch + Posters
-|-
-|1,30
-|3,30
-|Chair: <span style="color:red">Wei Gu </span>
-|-
-|style="background: #6495ED"|1,30
-|style="background: #6495ED"|2,15
-|style="background: #6495ED"|Keynote - ''Enabling the Digital Health Revolution at an Academic Medical Center Through Innovative Uses of Data'' - <span style="color:red">Sean Mooney</span>
-|-
-|style="background: #FFE4E1"|2,15
-|style="background: #FFE4E1"|2,35
-|style="background: #FFE4E1"|''Findings from the Fourth Critical Assessment of Genome Interpretation, a community experiment to evaluate phenotype prediction'' - <span style="color:red">Steven Brenner</span>
-|-
-|style="background: #FFE4E1"|2,35
-|style="background: #FFE4E1"|2,55
-|style="background: #FFE4E1"|''Activation of immune/ inflammatory response related co-expression modules in the hippocampus of schizophrenia'' - <span style="color:red">Sanghyeon Kim</span>
-|-
-|style="background: #FFE4E1"|2,55
-|style="background: #FFE4E1"|3,15
-|style="background: #FFE4E1"|''Biospeak-DB: A Standard Compliant Repository for Translational Research Studies'' - <span style="color:red">Ibrahim Emam</span>
-|-
-|style="background: yellow"|3,30
-|style="background: yellow"|4,00
-|style="background: yellow"|Afternoon Tea & Posters
-|-
-|4,00
-|5,15
-|Chair: <span style="color:red">Bissan Al-Lazikani </span>
-|-
-|style="background: #FFE4E1"|4,00
-|style="background: #FFE4E1"|4,30
-|style="background: #FFE4E1"|''NDEx, the Network Data Exchange: Disease Communities via Shared Networks'' - <span style="color:red">Dexter Pratt </span>
-|-
-|style="background: #6495ED"|4,30
-|style="background: #6495ED"|5,15
-|style="background: #6495ED"|Keynote - ''Bioinformatics Mining and Modeling Methods for the Identification of Disease Mechanisms in Neurodegenerative Disorders'' - <span style="color:red">Martin Hofmann-Apitius</span>
-|-
-|5,15
-|5,45
-|Round table discussion - <span style="color:red">All</span>
-|-
-|5,45
-|6,00
-|Concluding Remarks- <span style="color:red">Bissan Al-Lazikani</span>
-|} -->
 
 ## Abstract submission 
 
