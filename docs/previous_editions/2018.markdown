@@ -14,9 +14,9 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">'''_Proceedings_ Submission Deadline: Monday, January 29, 2018'''</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/_Proceedings_)
+* <span style="color:red"> Proceedings Submission Deadline: Monday, January 29, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/_Proceedings_)
 
-* <span style="color:red">Non-_Proceedings_ Submission Deadline: Thursday, April 5, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-keydates)
+* <span style="color:red">Non-Proceedings Submission Deadline: Thursday, April 5, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-keydates)
 
 * <span style="color:red">The TransMed COSI meeting will take place on July 8th, 2018, during the [ISMB 2018](https://www.iscb.org/ismb2018), Chicago, United States.
 
@@ -81,119 +81,11 @@ Topics of interest include, but are not limited to:
 17:50 | 18:00 | | Concluding Remarks | Venkata Satagopam |
 
 
-
-{| class="wikitable"
-|-
-!Start time
-!End time
-!Topic
-|-
-|10:15
-|12:40
-|Chair: <span style="color:red">Reinhard Schneider</span>
-|-
-|10:15
-|10:20
-|Introduction - <span style="color:red">Venkata Satagopam</span>
-|-
-|10:20
-|10:30
-|Opening talk on behalf of the organizing committee - <span style="color:red">Reinhard Schneider</span>
-|-
-|style="background: #6495ED"|10:30
-|style="background: #6495ED"|11:10
-|style="background: #6495ED"| **Keynote** - ''Interpreting newborn genomes'' - <span style="color:red">Steven E. Brenner</span>
-|-
-|style="background: #FFE4E1"|11:10
-|style="background: #FFE4E1"|11:20
-|style="background: #FFE4E1"|Talk - ''A systematic computational approach in translational medicine to integrate transcriptional profiles to clinical and structural changes for outcome prediction in Diabetic Kidney Disease'' - <span style="color:red">Viji Nair</span>
-|-
-|style="background: #FFE4E1"|11:20
-|style="background: #FFE4E1"|11:40
-|style="background: #FFE4E1"|_Proceedings_ - ''Association Mapping in Biomedical Time Series via Statistically Significant Shapelet Mining'' - <span style="color:red">Christian Bock</span>
-|-
-|style="background: #FFE4E1"|11:40
-|style="background: #FFE4E1"|12:00
-|style="background: #FFE4E1"|_Proceedings_ - ''LONGO: An R Package for Interactive Gene Length Dependent Analysis for Neuronal Identity'' - <span style="color:red">Alexander J. Paul</span>
-|-
-|style="background: #FFE4E1"|12:00
-|style="background: #FFE4E1"|12:20
-|style="background: #FFE4E1"|_Proceedings_ - ''Driver gene mutations based clustering of tumors: methods and applications'' - <span style="color:red">Wensheng Zhang</span>
-|-
-|style="background: #FFE4E1"|12:20
-|style="background: #FFE4E1"|12:40
-|style="background: #FFE4E1"|_Proceedings_ - ''Learning with multiple pairwise kernels for drug bioactivity prediction'' - <span style="color:red">Anna Cichonska</span>
-|-
-|style="background: yellow"|12:40
-|style="background: yellow"|14:00
-|style="background: yellow"|Lunch + Posters
-|-
-|14:00
-|16:00
-|Chair: <span style="color:red">Venkata Satagopam</span>
-|-
-|style="background: #6495ED"|14:00
-|style="background: #6495ED"|14:40
-|style="background: #6495ED"| **Keynote** - ''Tracing genomic histories and environmental influences in cancerdevelopment'' - <span style="color:red">Maria Secrier</span>
-|-
-|style="background: #FFE4E1"|14:40
-|style="background: #FFE4E1"|15:00
-|style="background: #FFE4E1"|_Proceedings_ - ''GSEA-InContext: Identifying novel and common patterns in expression experiments'' - <span style="color:red">Rani Powers</span>
-|-
-|style="background: #FFE4E1"|15:00
-|style="background: #FFE4E1"|15:20
-|style="background: #FFE4E1"|_Proceedings_ - ''AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery'' - <span style="color:red">Bristena Oprisanu</span>
-|-
-|style="background: #FFE4E1"|15:20
-|style="background: #FFE4E1"|15:30
-|style="background: #FFE4E1"|Talk - ''Activity landscapes of cancer cell lines predict drug response'' - <span style="color:red">Chen Meng</span>
-|-
-|style="background: #FFE4E1"|15:30
-|style="background: #FFE4E1"|15:40
-|style="background: #FFE4E1"|Talk - ''A generalizable and interpretable deep learning model for predicting microsatellite instability from routine histopathology images'' - <span style="color:red">Aly Khan</span>
-|-
-|style="background: #FFE4E1"|15:40
-|style="background: #FFE4E1"|15:50
-|style="background: #FFE4E1"|Talk - ''PROMIS-Med: Precise and Reproducible OMICS-Data Management and Integrative System for Precision Medicine'' - <span style="color:red">Zeeshan Ahmed</span>
-|-
-|style="background: #FFE4E1"|15:50
-|style="background: #FFE4E1"|16:00
-|style="background: #FFE4E1"|Talk - ''Integrative Genomics Analysis Identifies Distinct Prognostic Subgroups In Pediatric Cancers'' - <span style="color:red">Lei Huang</span>
-|-
-|style="background: yellow"|16:00
-|style="background: yellow"|16:40
-|style="background: yellow"|Coffee Break
-|-
-|16:40
-|18:00
-|Chair: <span style="color:red">Maria Secrier</span>
-|-
-|style="background: #FFE4E1"|16:40
-|style="background: #FFE4E1"|16:50
-|style="background: #FFE4E1"|Talk - ''Building and Using a Gen3 Data Commons for Translational Medicine'' - <span style="color:red">Francisco Ortuno</span>
-|-
-|style="background: #FFE4E1"|16:50
-|style="background: #FFE4E1"|17:00
-|style="background: #FFE4E1"|Talk - ''Identifying Crohn's disease signal from variome analysis'' - <span style="color:red">Yanran Wang</span>
-|-
-|style="background: #FFE4E1"|17:00
-|style="background: #FFE4E1"|17:10
-|style="background: #FFE4E1"|Talk - ''Secure genome crowdsourcing for million-individual association studies'' - <span style="color:red">Hyunghoon Cho</span>
-|-
-|style="background: #6495ED"|17:10
-|style="background: #6495ED"|17:50
-|style="background: #6495ED"| **Keynote** - ''Clinical and translational informatics: An overview'' - <span style="color:red">Jessie Tenenbaum</span>
-|-
-|17:50
-|18:00
-|Concluding Remarks- <span style="color:red">Venkata Satagopam</span>
-|}
-
 ## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">Thursday, April 5, 2018</span>. Acceptance notification will be sent out by <span style="color:red"> Thursday, April 26, 2018</span>.
 
-For _Proceedings_ submission the deadline is <span style="color:red">Monday, January 29, 2018</span>
+For Proceedings submission the deadline is <span style="color:red">Monday, January 29, 2018</span>
 
 Please use the [EasyChair](TBD) submission system: TBD .
 
