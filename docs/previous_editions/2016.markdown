@@ -148,7 +148,7 @@ Topics of interest include, but are not limited to:
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red"> May 27, 2016</span>. Acceptance notification will be sent out by <span style="color:red"> May 31, 2016</span>.
 
-Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2016) submission system: https://easychair.org/conferences/?conf=transmed2016 .
+Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2016) submission system.
 
 ## Key dates 
 
@@ -202,7 +202,7 @@ Twitter: [#TransMed2016](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medicine Informatics & Applications Group](https://www.linkedin.com/groups/8478286)
 
-##ß Acknowledgement 
+## Acknowledgement 
 The TransMed logo was designed by Alexandre Pellet, [www.alexandrepellet.com](http://www.alexandrepellet.com).
 
 For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).
