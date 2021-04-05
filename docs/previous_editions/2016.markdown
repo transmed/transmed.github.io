@@ -104,6 +104,7 @@ We would like to thank our sponsors [Luxembourg Centre For Systems Biomedicine (
 
 <img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" alt="drawin" style="float: left" width="120"/> 
 
+<span></span>
 
 ## Registration 
 Please follow the registration page on the ISMB website: [SIGs Registration](https://www.iscb.org/ismb2016-registration#1daysig).
