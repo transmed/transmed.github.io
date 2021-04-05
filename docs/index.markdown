@@ -100,7 +100,7 @@ Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk/), UK
 
 Irina Balaur, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
-Meet the Organizing committee [here](https://transmed.github.io/team/) or please feel free to contact us.
+Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
