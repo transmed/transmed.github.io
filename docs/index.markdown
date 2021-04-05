@@ -100,6 +100,8 @@ Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk/), UK
 
 Irina Balaur, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
+Meet the Organizing committee [here](https://transmed.github.io/team/) or please feel free to contact us.
+
 ## Programme committee (alphabetical order)
 
 Name, Institute, Country
@@ -113,6 +115,10 @@ If you have any questions, please do not hesitate to contact us by our [slack wo
 Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/groups/8478286)
+
+## Open positions
+
+Please check our page on open positions [here](https://transmed.github.io/open-positions/). Alternatively, please feel free to contact us directly.
 
 ## Acknowledgement
 
