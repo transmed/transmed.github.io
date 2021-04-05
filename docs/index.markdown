@@ -62,7 +62,7 @@ Abstract: TBD
 
 <span style="color:red">**Time zone: CEST**</span> 
 
-|Star time|End time|Type|Topic|Speaker|
+|Start time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
 | 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
 | 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |

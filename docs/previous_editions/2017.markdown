@@ -51,7 +51,7 @@ Topics of interest include, but are not limited to:
 
 ## Agenda 
 
-|Star time|End time|Type|Topic|Speaker|
+|Start time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
 |8:30 |	8:40 |	| Intro & Welcome | Reinhard Schneider |
 |8:40 |	9:15 |	**Keynote** | Metavariable based genome-phenome integrative analysis to facilitate personalized cancer medicine | **Anguraj Sadanandam** |

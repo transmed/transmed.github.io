@@ -46,7 +46,7 @@ Topics of interest include, but are not limited to:
 
 ## Agenda 
 
-|Star time|End time|Type|Topic|Speaker|
+|Start time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
 |8,30 |	8,45 |	| Intro & Welcome | Reinhard Schneider |
 |8,45 |	9,30 |	**Keynote** | Regulatory Science: a defining element of translational medicine | **Russ Altman** |
