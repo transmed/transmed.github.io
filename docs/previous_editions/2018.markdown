@@ -4,13 +4,11 @@ title: TransMed 2018 Meeting
 permalink: /TransMed2018/
 ---
 
-# Description 
+## Description 
 
 Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
 
-In '''the TransMed''' COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
-
-Information of previous TransMed meeting(s) can be found [here.](http://transmedit.org/TransMed_history)
+In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
 
 <span style="color:blue">  Link to the ISMB 2018 website is: [here](https://www.iscb.org/ismb2018)</span>
          
@@ -22,21 +20,30 @@ Please note:
 
 * <span style="color:red">The TransMed COSI meeting will take place on July 8th, 2018, during the [ISMB 2018](https://www.iscb.org/ismb2018), Chicago, United States.
 
-
-__TOC__
-
-# Topics of interest  
+## Topics of interest
 
 Topics of interest include, but are not limited to:
 
-* '''Clinical and molecular data storage and integration infrastructure''', including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine
-* '''Curation and harmonization of clinical, ‘omics and imaging data''', including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
-* '''Data analytics for patient stratification, biomarker and target discovery''', including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
-* '''Computational approaches for target selection and drug discovery''', including:  druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis.
-* '''ADME/PK and Tox models''', including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models.
-* '''Translational Medicine Informatics Applications/Case Studies''', including:  Next generation sequencing annotation and biomedicine applications, clinical data integration and application.
+<p style="text-align: justify;">
+ * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
 
-# Keynote speakers 
+<p style="text-align: justify;">
+  * <b>Curation and harmonization of clinical, ‘omics and imaging data</b>, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+</p>
+<p style="text-align: justify;">
+  * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
+</p>
+<p style="text-align: justify;">
+  * <b>Computational approaches for target selection and drug discovery</b>, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+</p>
+<p style="text-align: justify;">
+  * <b>ADME/PK and Tox models</b>, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+</p>
+<p style="text-align: justify;">
+ * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
+</p>
+
+## Keynote speakers 
 
 [Steven Brenner](http://plantandmicrobiology.berkeley.edu/profile/brenner), University of California, Berkeley
 
@@ -44,7 +51,7 @@ Topics of interest include, but are not limited to:
 
 [Jessica Dale Tenenbaum](https://scholars.duke.edu/person/jessie.tenenbaum), Duke University
 
-# Agenda 
+## Agenda 
 {| class="wikitable"
 |-
 !Start time
@@ -152,7 +159,7 @@ Topics of interest include, but are not limited to:
 |Concluding Remarks- <span style="color:red">Venkata Satagopam</span>
 |}
 
-# Abstract submission 
+## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">Thursday, April 5, 2018</span>. Acceptance notification will be sent out by <span style="color:red"> Thursday, April 26, 2018</span>.
 
@@ -160,15 +167,15 @@ For proceedings submission the deadline is <span style="color:red">Monday, Janua
 
 Please use the [EasyChair](TBD) submission system: TBD .
 
-# Key dates 
+## Key dates 
 
 * <span style="color:red">Detail information can be found: </span> [here.](https://www.iscb.org/ismb2018-keydates)
 
-# Venue 
+## Venue 
 
 The TransMed COSI meeting will take place on July 8th, 2018, during the [ISMB 2018](https://www.iscb.org/ismb2018), Chicago, United States.
 
-# Sponsorship 
+## Sponsorship 
 
 We would like to thank our sponsors:
 
@@ -185,10 +192,10 @@ for their kind support:
 [<img src="http://ittm-solutions.com/images/ittm_theme/ittm_logo.png" height="100" align="left">](http://ittm-solutions.com)
 [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/Elixir_LU.png" height="100" align="left">](https://elixir-luxembourg.org)
 
-# Registration 
+## Registration 
 Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismb2018-registration).
 
-# Organizing committee 
+## Organizing committee 
 
 Venkata Satagopam, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
@@ -204,7 +211,7 @@ Irina Balaur, [European Institute for Systems Biology and Medicine](http://eisbm
 
 Antonio Rausell, [Imagine Institute](http://www.institutimagine.org), Paris, France
 
-# Programme committee (alphabetical order)
+## Programme committee (alphabetical order)
 
 Francisco Azuaje, Luxembourg Institute of Health (LIH)<br>
 Irina Balaur, European Institute for Systems Biology and Medicine<br>
@@ -236,10 +243,10 @@ Fabio Vandin, University of Padova<br>
 Joachim Weischenfeldt, BRIC, University of Copenhagen<br>
 Qing Zhao, Merck Inc<br>
 
-# Contact us 
+## Contact us 
 If you have any questions, please do not hesitate to contact us: [transmed-coord@googlegroups.com](mailto:transmed-coord@googlegroups.com).
 
-# Follow us 
+## Follow us 
 
 Google Groups: [TransMed2018 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
@@ -247,7 +254,7 @@ Twitter: [#TransMed2018](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medicine Informatics & Applications Group](https://www.linkedin.com/groups/8478286)
 
-# Acknowledgement 
+## Acknowledgement 
 The current TransMed logo was designed by Belinda Hanson.
 
 The previous TransMed logo was designed by Alexandre Pellet, [www.alexandrepellet.com](http://www.alexandrepellet.com).

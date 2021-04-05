@@ -4,26 +4,36 @@ title: TransMed 2016 Meeting
 permalink: /TransMed2016/
 ---
 
-# Description 
+## Description 
 
 Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
 
-In '''the TransMed''' SIG meeting, we will explore the current status of computational biology approaches within the field of translational medicine.
+In the TransMed SIG meeting, we will explore the current status of computational biology approaches within the field of translational medicine.
 
-__TOC__
-
-# Topics of interest  
+## Topics of interest
 
 Topics of interest include, but are not limited to:
 
-* '''Clinical and molecular data storage and integration infrastructure''', including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine
-* '''Curation and harmonization of clinical, ‘omics and imaging data''', including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
-* '''Data analytics for patient stratification, biomarker and target discovery''', including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
-* '''Computational approaches for target selection and drug discovery''', including:  druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis.
-* '''ADME/PK and Tox models''', including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models.
-* '''Translational Medicine Informatics Applications/Case Studies''', including:  Next generation sequencing annotation and biomedicine applications, clinical data integration and application.
+<p style="text-align: justify;">
+ * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
 
-# Keynote speakers 
+<p style="text-align: justify;">
+  * <b>Curation and harmonization of clinical, ‘omics and imaging data</b>, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+</p>
+<p style="text-align: justify;">
+  * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
+</p>
+<p style="text-align: justify;">
+  * <b>Computational approaches for target selection and drug discovery</b>, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+</p>
+<p style="text-align: justify;">
+  * <b>ADME/PK and Tox models</b>, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+</p>
+<p style="text-align: justify;">
+ * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
+</p>
+
+## Keynote speakers 
 
 [Russ Altman](https://people.stanford.edu/rbaltman/), Professor of Bioengineering, Genetics, Medicine and Computer Science; Director, Biomedical Informatics Training Program, School of Medicine, Stanford University
 
@@ -34,7 +44,7 @@ Topics of interest include, but are not limited to:
 [Martin Hofmann-Apitius](http://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics.html), Professor for Applied Life Science Informatics at the Bonn-Aachen International Centre for Information Technology (B-IT) at the University of Bonn, Head of the Department of Bioinformatics at Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), Germany
 
 
-# Agenda 
+## Agenda 
 {| class="wikitable"
 |-
 !Start time
@@ -134,13 +144,13 @@ Topics of interest include, but are not limited to:
 |Concluding Remarks- <span style="color:red">Bissan Al-Lazikani</span>
 |}
 
-# Abstract submission 
+## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red"> May 27, 2016</span>. Acceptance notification will be sent out by <span style="color:red"> May 31, 2016</span>.
 
 Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2016) submission system: https://easychair.org/conferences/?conf=transmed2016 .
 
-# Key dates 
+## Key dates 
 
 * Call for one-page abstracts opens: March 1, 2016
 
@@ -152,11 +162,11 @@ Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2016)
 
 * <span style="color:#0000FF">TransMed 2016 SIG: July 8, 2016</span>
 
-# Venue 
+## Venue 
 
 The TransMed SIG meeting will take place on July 8, 2016, during the [ISMB 2016](https://www.iscb.org/ismb2016), in Orlando, USA and will be co-located with the main conference at The Swan and Dolphin, an Ideal Location on a Disney World Resort.
 
-# Sponsorship 
+## Sponsorship 
 
 We would like to thank our sponsors [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwen.uni.lu/lcsb),  [University of Luxembourg](http://wwwen.uni.lu) for their kind support:
 
@@ -164,10 +174,10 @@ We would like to thank our sponsors [Luxembourg Centre For Systems Biomedicine (
 
 [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" height="150" align="left">](http://wwwen.uni.lu/lcsb)    [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" height="150" align="right">](http://wwwen.uni.lu/)
 
-# Registration 
+## Registration 
 Please follow the registration page on the ISMB website: [SIGs Registration](https://www.iscb.org/ismb2016-registration#1daysig).
 
-# Organizing committee 
+## Organizing committee 
 
 Venkata Satagopam, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
@@ -181,10 +191,10 @@ Wei Gu, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/l
 
 Irina Balaur, [European Institute for Systems Biology and Medicine](http://eisbm.org/), Lyon, France
 
-# Contact us 
+## Contact us 
 If you have any questions, please do not hesitate to contact us: [transmed-coord@googlegroups.com](mailto:transmed-coord@googlegroups.com).
 
-# Follow us 
+## Follow us 
 
 Google Groups: [TransMed2016 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
@@ -192,7 +202,7 @@ Twitter: [#TransMed2016](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medicine Informatics & Applications Group](https://www.linkedin.com/groups/8478286)
 
-# Acknowledgement 
+##ß Acknowledgement 
 The TransMed logo was designed by Alexandre Pellet, [www.alexandrepellet.com](http://www.alexandrepellet.com).
 
 For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).

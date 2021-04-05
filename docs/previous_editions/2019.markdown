@@ -4,13 +4,11 @@ title: TransMed 2019 Meeting
 permalink: /TransMed2019/
 ---
 
-# Description 
+## Description 
 
 Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
 
-In '''the TransMed''' COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
-
-Information of previous TransMed meeting(s) can be found [here.](http://transmedit.org/TransMed_history)
+In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
 
 <span style="color:blue">  Link to the ISMB/ECCB 2019 website is: [here](https://www.iscb.org/ismbeccb2019)</span>
          
@@ -20,21 +18,30 @@ Please note:
 
 * <span style="color:red">The TransMed COSI meeting will take place on July 22nd, 2019, during the [ISMB/ECCB 2019](https://www.iscb.org/cms_addon/conferences/ismbeccb2019/transmed.php), Basel, Switzerland.
 
-
-__TOC__
-
-# Topics of interest  
+## Topics of interest
 
 Topics of interest include, but are not limited to:
 
-* '''Clinical and molecular data storage and integration infrastructure''', including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine
-* '''Curation and harmonization of clinical, ‘omics and imaging data''', including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
-* '''Data analytics for patient stratification, biomarker and target discovery''', including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
-* '''Computational approaches for target selection and drug discovery''', including:  druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis.
-* '''ADME/PK and Tox models''', including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models.
-* '''Translational Medicine Informatics Applications/Case Studies''', including:  Next generation sequencing annotation and biomedicine applications, clinical data integration and application.
+<p style="text-align: justify;">
+ * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
 
-# Keynote speakers 
+<p style="text-align: justify;">
+  * <b>Curation and harmonization of clinical, ‘omics and imaging data</b>, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+</p>
+<p style="text-align: justify;">
+  * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
+</p>
+<p style="text-align: justify;">
+  * <b>Computational approaches for target selection and drug discovery</b>, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+</p>
+<p style="text-align: justify;">
+  * <b>ADME/PK and Tox models</b>, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+</p>
+<p style="text-align: justify;">
+ * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
+</p>
+
+## Keynote speakers 
 
 [Isaac Kohane](https://dbmi.hms.harvard.edu/zak), Department of Biomedical Informatics, Harvard Medical School
 
@@ -48,7 +55,7 @@ Keynote title: SNAP variation between people + Deep Learning - lessons for prote
 
 Keynote title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
 
-# Agenda 
+## Agenda 
 
 {| class="wikitable"
 ! Start time
@@ -148,7 +155,7 @@ Keynote title: Harnessing Big, Multidisciplinary Data to Inform Cancer Medicine
 | Conclusion Remarks - <span style="color:red">Venkata Satagopam</span>
 |}
 
-# Abstract submission 
+## Abstract submission 
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">April 11th, 2019</span>. Acceptance notification will be sent out by <span style="color:red"> May 9th, 2019</span>.
 
@@ -156,15 +163,15 @@ For proceedings submission the deadline is <span style="color:red">Monday, Janua
 
 Please use the [EasyChair](https://easychair.org/) submission system.
 
-# Key dates 
+## Key dates 
 
 * <span style="color:red">Detail information can be found: </span> [here.](https://www.iscb.org/ismbeccb2019-keydates)
 
-# Venue 
+## Venue 
 
 The TransMed COSI meeting will take place on July 21th-25th, 2019, during the [ISMB/ECCB 2019](https://www.iscb.org/ismbeccb2019), Basel, Switzerland.
 
-# Sponsorship 
+## Sponsorship 
 
 We would like to thank our sponsors:
 
@@ -181,10 +188,10 @@ for their kind support:
 [<img src="http://ittm-solutions.com/images/ittm_theme/ittm_logo.png" height="100" align="left">](http://ittm-solutions.com)
 [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/Elixir_LU.png" height="100" align="left">](https://elixir-luxembourg.org)
 
-# Registration 
+## Registration 
 Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismb2018-registration).
 
-# Organizing committee 
+## Organizing committee 
 
 Venkata Satagopam, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
@@ -200,7 +207,7 @@ Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk), UK
 
 Irina Balaur, [European Institute for Systems Biology and Medicine](http://eisbm.org/), Lyon, France
 
-# Programme committee (alphabetical order)
+## Programme committee (alphabetical order)
 
 Sanne Abeln, Vrije Universiteit Amsterdam, The Netherlands<br>
 Miguel Angel Pujana, Catalan Institute of Oncology, Spain<br>
@@ -229,10 +236,10 @@ Chaochun Wei, Shanghai Jiao Tong University, China<br>
 Joachim Weischenfeldt, University of Copenhagen, Denmark<br>
 Bart Westerman, Amsterdam UMC, The Netherlands<br>
 
-# Contact us 
+## Contact us 
 If you have any questions, please do not hesitate to contact us: [transmed-cosi-chair@googlegroups.com](mailto:transmed-cosi-chair@googlegroups.com).
 
-# Follow us 
+## Follow us 
 
 Google Groups: [TransMed2019 Google Group](https://groups.google.com/forum/?hl=en#!forum/transmed-coord)
 
@@ -240,7 +247,7 @@ Twitter: [#TransMed2019](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medicine Informatics & Applications Group](https://www.linkedin.com/groups/8478286)
 
-# Acknowledgement 
+#ß# Acknowledgement 
 The current TransMed logo was designed by Belinda Hanson.
 
 The previous TransMed logo was designed by Alexandre Pellet, [www.alexandrepellet.com](http://www.alexandrepellet.com).
