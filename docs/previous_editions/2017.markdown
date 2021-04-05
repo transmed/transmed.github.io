@@ -120,9 +120,10 @@ We would like to thank our sponsors:
 for their kind support:
 
  
-[<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" height="100" align="left">](http://wwwen.uni.lu/lcsb)    [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" height="100" align="left">](http://wwwen.uni.lu/)
+[<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" height="100" align="left">](http://wwwen.uni.lu/lcsb)    
+[<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" height="100" align="left">](http://wwwen.uni.lu/)
 [<img src="http://ittm-solutions.com/images/ittm_theme/ittm_logo.png" height="100" align="left">](http://ittm-solutions.com)
-<br><br>
+
 
 ## Registration 
 Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismbeccb2017-registration).

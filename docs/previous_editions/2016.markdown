@@ -100,10 +100,9 @@ The TransMed SIG meeting will take place on July 8, 2016, during the [ISMB 2016]
 
 We would like to thank our sponsors [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwen.uni.lu/lcsb),  [University of Luxembourg](http://wwwen.uni.lu) for their kind support:
 
-<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" alt="drawin" style="float: left" width="120"/> 
+[<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" height="100" align="left">](http://wwwen.uni.lu/lcsb)    
+[<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" height="100" align="left">](http://wwwen.uni.lu/)
 
-<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" alt="drawin" style="float: left" width="120"/> 
-<br><br>
 
 ## Registration 
 Please follow the registration page on the ISMB website: [SIGs Registration](https://www.iscb.org/ismb2016-registration#1daysig).
