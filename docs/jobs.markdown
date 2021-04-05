@@ -11,3 +11,5 @@ If you have open positions on translational research in your Group and wish to s
 ## 01/02/2021
 
 <b>Open position at LCSB, University of Luxembourg.</b> Please check position  <a href="../jobs/preadapt_postdoc_position_2021.pdf">here</a>.
+
+For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).
