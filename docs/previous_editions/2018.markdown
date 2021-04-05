@@ -14,9 +14,9 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">'''Proceedings Submission Deadline: Monday, January 29, 2018'''</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/proceedings)
+* <span style="color:red">'''_Proceedings_ Submission Deadline: Monday, January 29, 2018'''</span>. [Detail information.](https://www.iscb.org/ismb2018-submit/_Proceedings_)
 
-* <span style="color:red">Non-proceedings Submission Deadline: Thursday, April 5, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-keydates)
+* <span style="color:red">Non-_Proceedings_ Submission Deadline: Thursday, April 5, 2018</span>. [Detail information.](https://www.iscb.org/ismb2018-keydates)
 
 * <span style="color:red">The TransMed COSI meeting will take place on July 8th, 2018, during the [ISMB 2018](https://www.iscb.org/ismb2018), Chicago, United States.
 
@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to:
  * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
-## Keynote speakers 
+##  **Keynote** speakers 
 
 [Steven Brenner](http://plantandmicrobiology.berkeley.edu/profile/brenner), University of California, Berkeley
 
@@ -52,6 +52,36 @@ Topics of interest include, but are not limited to:
 [Jessica Dale Tenenbaum](https://scholars.duke.edu/person/jessie.tenenbaum), Duke University
 
 ## Agenda 
+
+|Start time|End time|Type|Topic|Speaker|
+|------------|---------|---------|---------|---------|
+|10:15 | 12:40 | | Chair | Reinhard Schneider |
+|10:15 | 10:20 | | Introduction | Venkata Satagopam |
+|10:20 | 10:30 | | Opening talk on behalf of the organizing committee | Reinhard Schneider |
+|10:30 | 11:10 |  **Keynote** | Interpreting newborn genomes | **Steven E. Brenner** |
+|11:10 | 11:20 | Talk | A systematic computational approach in translational medicine to integrate transcriptional profiles to clinical and structural changes for outcome prediction in Diabetic Kidney Disease | Viji Nair |
+|11:20 | 11:40 | _Proceedings_ | Association Mapping in Biomedical Time Series via Statistically Significant Shapelet Mining | Christian Bock |
+|11:40 | 12:00 | _Proceedings_ | LONGO: An R Package for Interactive Gene Length Dependent Analysis for Neuronal Identity | Alexander J. Paul |
+|12:00 | 12:20 | _Proceedings_ | Driver gene mutations based clustering of tumors: methods and applications | Wensheng Zhang |
+2:20 | 12:40 | _Proceedings_ | Learning with multiple pairwise kernels for drug bioactivity prediction | Anna Cichonska |
+12:40 | 14:00 | | Lunch + Posters | All |
+14:00 | 16:00 | | Chair| Venkata Satagopam |
+14:00 | 14:40 |  **Keynote** | Tracing genomic histories and environmental influences in cancerdevelopment | **Maria Secrier** |
+14:40 | 15:00 | _Proceedings_ | GSEA-InContext: Identifying novel and common patterns in expression experiments | Rani Powers |
+15:00 | 15:20 | _Proceedings_ | AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery | Bristena Oprisanu |
+15:20 | 15:30 | Talk | Activity landscapes of cancer cell lines predict drug response | Chen Meng |
+15:30 | 15:40 | Talk | A generalizable and interpretable deep learning model for predicting microsatellite instability from routine histopathology images | Aly Khan |
+15:40 | 15:50 | Talk | PROMIS-Med: Precise and Reproducible OMICS-Data Management and Integrative System for Precision Medicine | Zeeshan Ahmed |
+15:50 | 16:00 | Talk | Integrative Genomics Analysis Identifies Distinct Prognostic Subgroups In Pediatric Cancers | Lei Huang |
+16:40 | 18:00 | | Chair | Maria Secrier |
+16:40 | 16:50 | Talk | Building and Using a Gen3 Data Commons for Translational Medicine | Francisco Ortuno |
+16:50 | 17:00 | Talk | Identifying Crohn's disease signal from variome analysis | Yanran Wang |
+17:00 | 17:10 | Talk | Secure genome crowdsourcing for million-individual association studies | Hyunghoon Cho |
+17:10 | 17:50 |  **Keynote** | Clinical and translational informatics: An overview | **Jessie Tenenbaum** |
+17:50 | 18:00 | | Concluding Remarks | Venkata Satagopam |
+
+
+
 {| class="wikitable"
 |-
 !Start time
@@ -72,7 +102,7 @@ Topics of interest include, but are not limited to:
 |-
 |style="background: #6495ED"|10:30
 |style="background: #6495ED"|11:10
-|style="background: #6495ED"|Keynote - ''Interpreting newborn genomes'' - <span style="color:red">Steven E. Brenner</span>
+|style="background: #6495ED"| **Keynote** - ''Interpreting newborn genomes'' - <span style="color:red">Steven E. Brenner</span>
 |-
 |style="background: #FFE4E1"|11:10
 |style="background: #FFE4E1"|11:20
@@ -80,19 +110,19 @@ Topics of interest include, but are not limited to:
 |-
 |style="background: #FFE4E1"|11:20
 |style="background: #FFE4E1"|11:40
-|style="background: #FFE4E1"|Proceedings - ''Association Mapping in Biomedical Time Series via Statistically Significant Shapelet Mining'' - <span style="color:red">Christian Bock</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''Association Mapping in Biomedical Time Series via Statistically Significant Shapelet Mining'' - <span style="color:red">Christian Bock</span>
 |-
 |style="background: #FFE4E1"|11:40
 |style="background: #FFE4E1"|12:00
-|style="background: #FFE4E1"|Proceedings - ''LONGO: An R Package for Interactive Gene Length Dependent Analysis for Neuronal Identity'' - <span style="color:red">Alexander J. Paul</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''LONGO: An R Package for Interactive Gene Length Dependent Analysis for Neuronal Identity'' - <span style="color:red">Alexander J. Paul</span>
 |-
 |style="background: #FFE4E1"|12:00
 |style="background: #FFE4E1"|12:20
-|style="background: #FFE4E1"|Proceedings - ''Driver gene mutations based clustering of tumors: methods and applications'' - <span style="color:red">Wensheng Zhang</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''Driver gene mutations based clustering of tumors: methods and applications'' - <span style="color:red">Wensheng Zhang</span>
 |-
 |style="background: #FFE4E1"|12:20
 |style="background: #FFE4E1"|12:40
-|style="background: #FFE4E1"|Proceedings - ''Learning with multiple pairwise kernels for drug bioactivity prediction'' - <span style="color:red">Anna Cichonska</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''Learning with multiple pairwise kernels for drug bioactivity prediction'' - <span style="color:red">Anna Cichonska</span>
 |-
 |style="background: yellow"|12:40
 |style="background: yellow"|14:00
@@ -104,15 +134,15 @@ Topics of interest include, but are not limited to:
 |-
 |style="background: #6495ED"|14:00
 |style="background: #6495ED"|14:40
-|style="background: #6495ED"|Keynote - ''Tracing genomic histories and environmental influences in cancerdevelopment'' - <span style="color:red">Maria Secrier</span>
+|style="background: #6495ED"| **Keynote** - ''Tracing genomic histories and environmental influences in cancerdevelopment'' - <span style="color:red">Maria Secrier</span>
 |-
 |style="background: #FFE4E1"|14:40
 |style="background: #FFE4E1"|15:00
-|style="background: #FFE4E1"|Proceedings - ''GSEA-InContext: Identifying novel and common patterns in expression experiments'' - <span style="color:red">Rani Powers</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''GSEA-InContext: Identifying novel and common patterns in expression experiments'' - <span style="color:red">Rani Powers</span>
 |-
 |style="background: #FFE4E1"|15:00
 |style="background: #FFE4E1"|15:20
-|style="background: #FFE4E1"|Proceedings - ''AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery'' - <span style="color:red">Bristena Oprisanu</span>
+|style="background: #FFE4E1"|_Proceedings_ - ''AnoniMME: Bringing Anonymity to the Matchmaker Exchange Platform for Rare Disease Gene Discovery'' - <span style="color:red">Bristena Oprisanu</span>
 |-
 |style="background: #FFE4E1"|15:20
 |style="background: #FFE4E1"|15:30
@@ -152,7 +182,7 @@ Topics of interest include, but are not limited to:
 |-
 |style="background: #6495ED"|17:10
 |style="background: #6495ED"|17:50
-|style="background: #6495ED"|Keynote - ''Clinical and translational informatics: An overview'' - <span style="color:red">Jessie Tenenbaum</span>
+|style="background: #6495ED"| **Keynote** - ''Clinical and translational informatics: An overview'' - <span style="color:red">Jessie Tenenbaum</span>
 |-
 |17:50
 |18:00
@@ -163,7 +193,7 @@ Topics of interest include, but are not limited to:
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">Thursday, April 5, 2018</span>. Acceptance notification will be sent out by <span style="color:red"> Thursday, April 26, 2018</span>.
 
-For proceedings submission the deadline is <span style="color:red">Monday, January 29, 2018</span>
+For _Proceedings_ submission the deadline is <span style="color:red">Monday, January 29, 2018</span>
 
 Please use the [EasyChair](TBD) submission system: TBD .
 
