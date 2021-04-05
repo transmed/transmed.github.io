@@ -14,9 +14,9 @@ In the TransMed COSI meeting, we will explore the current status of computationa
          
 Please note: 
 
-* <span style="color:red">_Proceedings_ Submission Deadline: January 26, 2017</span>
+* <span style="color:red">Proceedings Submission Deadline: January 26, 2017</span>
 
-* <span style="color:red">Non-_Proceedings_ Submission Deadline: April 13, 2017</span> 
+* <span style="color:red">Non-Proceedings Submission Deadline: April 13, 2017</span> 
 
 ## Topics of interest
 
@@ -47,7 +47,7 @@ Topics of interest include, but are not limited to:
 
 [Prof. Tim Hubbard](https://kclpure.kcl.ac.uk/portal/tim.hubbard.html), King's College London, UK
 
-[TBD](http://transmedit.org/TransMed_2017), TBD
+[Prof. Barend Mons](https://www.lumc.nl/org/humane-genetica/medewerkers/barend-mons?setlanguage=English&setcountry=en), Leiden University Medical Center, NL
 
 ## Agenda 
 
@@ -87,7 +87,7 @@ Topics of interest include, but are not limited to:
 
 Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">April 13, 2017</span>. Acceptance notification will be sent out by <span style="color:red"> May 10, 2017</span>.
 
-Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2017) submission system: https://easychair.org/conferences/?conf=transmed2017 .
+Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2017) submission system.
 
 ## Key dates 
 
@@ -101,9 +101,9 @@ Please use the [EasyChair](https://easychair.org/conferences/?conf=transmed2017)
 
 * <span style="color:#0000FF">TransMed 2017 COSI: July 25, 2017</span>
 
-For _Proceedings_ Submission, please follow [this guideline.](https://www.iscb.org/ismbeccb2017/2929)
+For Proceedings Submission, please follow [this guideline.](https://www.iscb.org/ismbeccb2017/2929)
 
-* Please note: <span style="color:red">'''_Proceedings_ Submission Deadline: January 26, 2017'''</span>
+* Please note: <span style="color:red">Proceedings Submission Deadline: January 26, 2017'''</span>
 
 ## Venue 
 
@@ -122,6 +122,8 @@ for their kind support:
  
 [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoLCSB-long.jpg" height="100" align="left">](http://wwwen.uni.lu/lcsb)    [<img src="https://webdav-r3lab.uni.lu/public/biocore/logos/logoUni.png" height="100" align="left">](http://wwwen.uni.lu/)
 [<img src="http://ittm-solutions.com/images/ittm_theme/ittm_logo.png" height="100" align="left">](http://ittm-solutions.com)
+
+<br>
 
 ## Registration 
 Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismbeccb2017-registration).
