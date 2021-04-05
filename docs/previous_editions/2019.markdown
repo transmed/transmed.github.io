@@ -41,7 +41,7 @@ Topics of interest include, but are not limited to:
  * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
-## **Keynote** speakers 
+## Keynote speakers 
 
 [Isaac Kohane](https://dbmi.hms.harvard.edu/zak), Department of Biomedical Informatics, Harvard Medical School
 

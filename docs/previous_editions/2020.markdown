@@ -44,11 +44,11 @@ Topics of interest include, but are not limited to:
  * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
 </p>
 
-## | **Keynote**| speakers 
+## Keynote speakers 
 
 [Jason H. Moore](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452), Edward Rose, M.D. and Elizabeth Kirk Rose, M.D. Professor, University of Pennsylvania, United States
 
-| **Keynote**| title: 20 Challenges of AI in Medicine
+Keynote title: 20 Challenges of AI in Medicine
 
 Abstract: The opportunities for using artificial intelligence (AI) and machine learning to improve healthcare are endless. Recent successes include the use of deep learning to identify clinically important patterns in radiographic images. However, there are numerous important challenges which must be addressed before AI can become widely adopted and incorporated into clinical workflows. Some of these challenges come from healthcare data. For example, clinical data from electronic health records (EHR) are notoriously noisy and incomplete. Some of these challenges come from the limitations of AI algorithms. For example, each algorithm looks at data in a different manner. How do you know which are the right methods to employ for a given data set? We will review 10 important clinical data challenges and 10 AI challenges which can impede progress in this area. A number of specific examples and some possible solutions will be provided.
 
@@ -56,16 +56,16 @@ Abstract: The opportunities for using artificial intelligence (AI) and machine l
 
 [Atul Butte](https://profiles.ucsf.edu/atul.butte), Priscilla Chan and Mark Zuckerberg Distinguished Professor of Pediatrics, Bioengineering & Therapeutic Sciences, and Epidemiology & Biostatistics at UCSF, United States
 
-| **Keynote**| title: TBD
+Keynote title: TBD
 
 Abstract: TBD
 
 ## Agenda 
-<span style="color:red">'''Time zone: EDT'''</span>
+<span style="color:red">Time zone: EDT</span>
 
 |Start time|End time|Type|Topic|Speaker|
 |------------|---------|---------|---------|---------|
-|10:40 AM | 11:20 AM 	| **Keynote**| (Live-stream) - 20 Challenges of AI in Medicine | **Jason H. Moore**|
+|10:40 AM | 11:20 AM 	| **Keynote** (Live-stream) | 20 Challenges of AI in Medicine | **Jason H. Moore**|
 |11:20 AM | 11:40 AM | (Pre-recorded with live Q&A) | Privacy-preserving Construction of Generalized Linear Mixed Model for Biomedical Computation | Rui Zhu |
 |12:00 PM | 12:20 PM |	(Pre-recorded with live Q&A) | Longitudinal multi-omics profiling reveals two biological seasonal patterns in California | Ahmed Metwally |
 |12:20 PM | 12:30 PM 	| (Pre-recorded with live Q&A) | A versatile non-linear transfer learning framework for correcting pre-clinical-based predictors of drug response | Soufiane Mourragui |
@@ -80,9 +80,9 @@ Abstract: TBD
 |4:00 PM | 4:20 PM |	(Pre-recorded with live Q&A) | Drug repurposing to improve health and lifespan in humans | Handan Melike Donertas
 |4:20 PM | 4:30 PM |	(Pre-recorded with live Q&A) | Patient Derived Xenografts Based Pharmacogenomics for Precision Medicine | Arvind Singh Mer |
 |4:30 PM | 4:40 PM | |Q&A | All|
-|5:00 PM | 5:10 PM |	(Pre-recorded with live Q&A) | ReactomeGSA | Efficient Multi-Omics Comparative Pathway Analysis | Johannes Griss |
-|5:10 PM | 5:50 PM 	| **Keynote**| (Live-stream) | Precisely Practicing Medicine from 700 Trillion Points of Data | **Atul Butte** |
-|5:50 PM | 6:00 PM | | Closing remarks (Live-stream) | Maria Secrier |
+|5:00 PM | 5:10 PM |	(Pre-recorded with live Q&A) | ReactomeGSA - Efficient Multi-Omics Comparative Pathway Analysis | Johannes Griss |
+|5:10 PM | 5:50 PM 	| **Keynote** (Live-stream) | Precisely Practicing Medicine from 700 Trillion Points of Data | **Atul Butte** |
+|5:50 PM | 6:00 PM | Closing remarks (Live-stream) | Maria Secrier |
 
 
 
