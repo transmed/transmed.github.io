@@ -1,3 +1,9 @@
+---
+layout: default
+title: TransMed 2017 Meeting
+permalink: /TransMed2017/
+---
+
 # Description 
 
 Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.
@@ -262,4 +268,6 @@ Linkedin: [Translational Medicine Informatics & Applications Group](https://www.
 
 # Acknowledgement 
 The TransMed logo was designed by Alexandre Pellet, [www.alexandrepellet.com](http://www.alexandrepellet.com).
+
+For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).
 
