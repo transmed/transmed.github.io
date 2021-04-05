@@ -12,7 +12,7 @@ layout: default
 
 In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
 
-Information of previous TransMed meeting(s) can be found [here](http://transmedit.org/TransMed_history).
+Information of previous TransMed meeting(s) can be found [here](https://transmed.github.io/TransMed_history).
 
 Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
 
