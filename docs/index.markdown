@@ -81,6 +81,18 @@ Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdom
 
 ## Key dates
 
+Abstract submissions deadline: <span style="color:red">May 6, 2021 (EDT)</span>
+
+Poster and Presentation acceptance notifications: May 27, 2021
+
+Late Posters submissions deadline: June 3, 2021 (EDT)
+
+Late Posters Acceptance Notifications: June 10, 2021
+
+Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform: July 8, 2021
+
+TransMed 2021 COSI meeting: July 25 - 26, 2021
+
 Detailed information can be found: [here](https://www.iscb.org/ismbeccb2021-keydates).
 
 ## Registration
