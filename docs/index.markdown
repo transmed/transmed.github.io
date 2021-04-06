@@ -18,7 +18,7 @@ Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021)
 
 Please note:
 
-<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 26, 2021, during the ISMB/ECCB 2021 conference. </span>
+<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 25 - 26, 2021, during the ISMB/ECCB 2021 conference. </span>
 
 ## Topics of interest
 
