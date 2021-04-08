@@ -45,14 +45,15 @@ Topics of interest include, but are not limited to:
 
 ## Keynote speakers
 
-[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl), Harvard Medical School
+**[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl)**, Harvard Medical School
 
 Keynote title: TBD
 
 Abstract: TBD
 
+<hr />
 	
-[Dr Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/), ELIXIR - EUROPE
+**[Dr Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
 
 Keynote title: TBD
 
@@ -81,17 +82,23 @@ Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdom
 
 ## Key dates
 
-Abstract submissions deadline: <span style="color:red">May 6, 2021 (EDT)</span>
+**Abstract submissions deadline**: 
+<br /><span style="color:red">May 6, 2021 (EDT)</span>
 
-Poster and Presentation acceptance notifications: May 27, 2021
+**Poster and Presentation acceptance notifications**:
+<br />May 27, 2021
 
-Late Posters submissions deadline: June 3, 2021 (EDT)
+**Late Posters submissions deadline**: 
+<br />June 3, 2021 (EDT)
 
-Late Posters Acceptance Notifications: June 10, 2021
+**Late Posters Acceptance Notifications**: 
+<br />June 10, 2021
 
-Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform: July 8, 2021
+***Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform**: 
+<br />July 8, 2021
 
-TransMed 2021 COSI meeting: July 25 - 26, 2021
+**TransMed 2021 COSI meeting**: 
+<br />July 25 - 26, 2021
 
 Detailed information can be found: [here](https://www.iscb.org/ismbeccb2021-keydates).
 
@@ -100,17 +107,17 @@ Please follow the registration page on the ISMB website: [TransMed COSI Registra
 
 ## Organizing committee
 
-Venkata Satagopam, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+**Venkata Satagopam** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
-Reinhard Schneider, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+**Reinhard Schneider** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
-Maria Secrier, [University College London](https://www.ucl.ac.uk/), UK
+**Maria Secrier** - [University College London](https://www.ucl.ac.uk/), UK
 
-Wei Gu, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+**Wei Gu** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
-Mansoor Saqi, [King’s College London](https://www.kcl.ac.uk/), UK
+**Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
-Irina Balaur, [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+**Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
 Meet the Organizing committee [here](https://transmed.github.io/team/).
 
