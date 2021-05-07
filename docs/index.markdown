@@ -77,7 +77,7 @@ Abstract: TBD
 || 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
 || 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
 || 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
-|July 26, 2021| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
+|July 26, 2021| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Serena Scollen** |
 || 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
 || 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
 || 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
