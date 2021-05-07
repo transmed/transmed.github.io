@@ -74,7 +74,7 @@ Abstract: TBD
 |Day|Start time|End time|Type|Topic|Speaker|
 |-|------------|---------|---------|---------|---------|
 |<td rowspan="2">July 25, 2021</td>| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
-| 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
+|| 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
 || 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
 || 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
 
