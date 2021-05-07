@@ -53,22 +53,30 @@ Abstract: TBD
 
 <hr />
 	
-**[Dr Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
+**[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
 
 Keynote title: TBD
 
 Abstract: TBD
+<hr />
+	
+**[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
+
+Keynote title: TBD
+
+Abstract: TBD
+<hr />
 
 ## Agenda
 
 <span style="color:red">**Time zone: CEST**</span> 
 
-|Start time|End time|Type|Topic|Speaker|
-|------------|---------|---------|---------|---------|
-| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
-| 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
-| 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
-| 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
+|Day|Start time|End time|Type|Topic|Speaker|
+|-|------------|---------|---------|---------|---------|
+|| 10:40 AM  | 11:20 AM | **Keynote**| The topic will be published soon after confirmation with the speaker| **Name** |
+|| 11:20 AM  | 11:40 AM | _Proceedings_| The topic will be published soon after confirmation with the speaker| **Name** |
+|| 11:40 AM  | 12:30 AM | **`Coffee_Break`** | | |
+|| 12:40 AM  | 12:50 AM | Short talk| The topic will be published soon after confirmation with the speaker| **Name** |
 
 ## Abstract submission
 
