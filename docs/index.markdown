@@ -138,8 +138,11 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 Name, Institute, Country
 
 Soumyabrata Ghosh - University of Luxembourg, Luxembourg
+
 Shaman Narayanasamy - University of Luxembourg, Luxembourg
+
 Alina Sirbu - University of Pisa, Italy
+
 Danielle Welter - University of Luxembourg, Luxembourg
 
 ## Contact us
