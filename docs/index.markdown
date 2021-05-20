@@ -135,11 +135,11 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
+Konstantina Dimitrakopoulou, King’s College London, UK
+
 Soumyabrata Ghosh, University of Luxembourg, Luxembourg
 
 Alexander Mazein, University of Luxembourg, Luxembourg
-
-Shaman Narayanasamy, University of Luxembourg, Luxembourg
 
 Alina Sirbu, University of Pisa, Italy
 
