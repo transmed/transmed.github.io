@@ -48,9 +48,10 @@ Topics of interest include, but are not limited to:
 **[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl)**, Harvard Medical School
 <p style="text-align: justify;">
 Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.
+	
 His work at the intersection of population and individual health has had a unique, sustained influence on the developing field of biomedical informatics. Mandl’s Presidential Early Career Award for Scientists and Engineers was for pioneering real time biosurveillance, tracking infections and detecting outbreaks with diverse data. He has long advocated for patient participation in producing and accessing data and was a pioneer of the first personal health systems, using crowdsourced knowledge from online patient networks, and advancing participatory medicine and engagement in clinical trials.
-Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.
-	</p>
+	
+Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.</p>
 
 Keynote title: TBD
 
