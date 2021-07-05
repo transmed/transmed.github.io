@@ -56,23 +56,16 @@ His work at the intersection of population and individual health has had a uniqu
 Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.</p>
 
 Keynote title: 21st Century healthcare is bringing computation to the bedside
-
-Abstract: TBD
-
 <hr />
 	
 **[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
 
 Keynote title: TBD
-
-Abstract: TBD
 <hr />
 	
 **[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
 
 Keynote title: TBD
-
-Abstract: TBD
 <hr />
 
 ## Agenda
