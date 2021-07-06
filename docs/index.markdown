@@ -44,10 +44,12 @@ Topics of interest include, but are not limited to:
 </p>
 
 ## Keynote speakers
-
 **[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl)**, Harvard Medical School
+    <img align="right" src="../pics/keynote/mandlchipretreat2019-cropped.jpg" width="200"/>
+    
 <p style="text-align: justify;">
-Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.</p>
+Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.</td>
+</p>
 
 <p style="text-align: justify;">	
 His work at the intersection of population and individual health has had a unique, sustained influence on the developing field of biomedical informatics. Mandl’s Presidential Early Career Award for Scientists and Engineers was for pioneering real time biosurveillance, tracking infections and detecting outbreaks with diverse data. He has long advocated for patient participation in producing and accessing data and was a pioneer of the first personal health systems, using crowdsourced knowledge from online patient networks, and advancing participatory medicine and engagement in clinical trials.</p>
