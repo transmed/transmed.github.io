@@ -59,7 +59,7 @@ His work at the intersection of population and individual health has had a uniqu
 <p style="text-align: justify;">	
 Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.</p>
 
-Keynote title: 21st Century healthcare is bringing computation to the bedside
+Keynote title: **21st Century healthcare is bringing computation to the bedside**
 <hr />
 	
 **[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
@@ -72,12 +72,12 @@ Dr. Scollen is the Head of Human Genomics and Translational Data at ELIXIR, the 
 <p style="text-align: justify;">
 Prior to joining ELIXIR, she was a Director within the Human Genetics and Computational Biomedicine group at Pfizer. In this role, she led and implemented a genetic and precision medicine strategy to support drug target selection and clinical programmes for the Pain and Sensory Disorders Research Unit. She was also a member of the ABPI Stratified Medicine Working Group. Earlier in her career, she worked within the Toxicogenomics group at GlaxoSmithKline. She gained postdoctoral experience at the University of Cambridge and Imperial College London and a PhD from the University of Cambridge, with a focus on the genetic susceptibility to disease.</p>
 
-Keynote title: Towards cross-border access to beyond one million sequenced human genomes
+Keynote title: **Towards cross-border access to beyond one million sequenced human genomes**
 <hr />
 	
 **[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
 
-Keynote title: Personalized HealthTech Services: from data-driven innovation to Patient-centered Healthcare Application
+Keynote title: **Personalized HealthTech Services: from data-driven innovation to Patient-centered Healthcare Application**
 <hr />
 
 ## Agenda
