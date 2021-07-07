@@ -50,7 +50,7 @@ Topics of interest include, but are not limited to:
 <img align="right" src="../pics/keynote2021/mandlchipretreat2019-cropped.jpg" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
-	Keynote title: **21st Century healthcare is bringing computation to the bedside**
+	Keynote title: <b>21st Century healthcare is bringing computation to the bedside</b>	
 Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.
 </p>
 
