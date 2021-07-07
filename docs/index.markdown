@@ -77,7 +77,7 @@ Keynote title: Towards cross-border access to beyond one million sequenced human
 	
 **[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
 
-Keynote title: TBD
+Keynote title: Personalized HealthTech Services: from data-driven innovation to Patient-centered Healthcare Application
 <hr />
 
 ## Agenda
