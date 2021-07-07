@@ -50,6 +50,7 @@ Topics of interest include, but are not limited to:
 <img align="right" src="../pics/keynote2021/mandlchipretreat2019-cropped.jpg" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
+	Keynote title: **21st Century healthcare is bringing computation to the bedside**
 Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.
 </p>
 
@@ -59,7 +60,6 @@ His work at the intersection of population and individual health has had a uniqu
 <p style="text-align: justify;">	
 Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.</p>
 
-Keynote title: **21st Century healthcare is bringing computation to the bedside**
 <hr />
 	
 **[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
