@@ -64,7 +64,7 @@ Keynote title: 21st Century healthcare is bringing computation to the bedside
 	
 **[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
 
-<img align="right" src="../pics/keynote2021/SerenaScollen.jpeg" width="150" style="padding-left:16px"/>
+<img align="right" src="../pics/keynote2021/SerenaScollen.png" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
 Dr. Scollen is the Head of Human Genomics and Translational Data at ELIXIR, the European infrastructure for bioinformatics and life-science data, based in Hinxton, UK. Her vision is to ensure data that can be shared, will be shared responsibly. She is working with scientists across Europe to establish standards and infrastructure to facilitate discoverability, access, sharing and analysis of genomics data, linked to other data types and at a scale that has not previously been achieved. Developing infrastructure will unleash new possibilities for genomics and health. Serena is the coordinator of the B1MG project, a €4M EU H2020 Coordination and Support Action that is aligned with the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 European countries to give cross-border access to one million sequenced genomes by 2022. She is also project lead for the Innovative Medicine Initiative (IMI) FAIRplus project, an €8.3M collaboration that sets out to improve data sharing and reuse in life science research.</p>
