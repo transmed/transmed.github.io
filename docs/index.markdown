@@ -50,7 +50,7 @@ Topics of interest include, but are not limited to:
 <img align="right" src="../pics/keynote2021/mandlchipretreat2019-cropped.jpg" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
-	Keynote title: <b>21st Century healthcare is bringing computation to the bedside</b>	<br>
+	Keynote title: <b>21st Century healthcare is bringing computation to the bedside</b>	<br><br>
 	
 Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.
 </p>
@@ -68,9 +68,9 @@ Cognizant of the limitations of extant electronic health record systems, Mandl d
 <img align="right" src="../pics/keynote2021/SerenaScollen.png" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
-	Keynote title: <b>Towards cross-border access to beyond one million sequenced human genomes</b> <br>
+	Keynote title: <b>Towards cross-border access to beyond one million sequenced human genomes</b> <br><br>
 	
-Dr. Scollen is the Head of Human Genomics and Translational Data at ELIXIR, the European infrastructure for bioinformatics and life-science data, based in Hinxton, UK. Her vision is to ensure data that can be shared, will be shared responsibly. She is working with scientists across Europe to establish standards and infrastructure to facilitate discoverability, access, sharing and analysis of genomics data, linked to other data types and at a scale that has not previously been achieved. Developing infrastructure will unleash new possibilities for genomics and health. Serena is the coordinator of the B1MG project, a €4M EU H2020 Coordination and Support Action that is aligned with the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 European countries to give cross-border access to one million sequenced genomes by 2022. She is also project lead for the Innovative Medicine Initiative (IMI) FAIRplus project, an €8.3M collaboration that sets out to improve data sharing and reuse in life science research.</p>
+Biography: Dr. Scollen is the Head of Human Genomics and Translational Data at ELIXIR, the European infrastructure for bioinformatics and life-science data, based in Hinxton, UK. Her vision is to ensure data that can be shared, will be shared responsibly. She is working with scientists across Europe to establish standards and infrastructure to facilitate discoverability, access, sharing and analysis of genomics data, linked to other data types and at a scale that has not previously been achieved. Developing infrastructure will unleash new possibilities for genomics and health. Serena is the coordinator of the B1MG project, a €4M EU H2020 Coordination and Support Action that is aligned with the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 European countries to give cross-border access to one million sequenced genomes by 2022. She is also project lead for the Innovative Medicine Initiative (IMI) FAIRplus project, an €8.3M collaboration that sets out to improve data sharing and reuse in life science research.</p>
 	
 <p style="text-align: justify;">
 Prior to joining ELIXIR, she was a Director within the Human Genetics and Computational Biomedicine group at Pfizer. In this role, she led and implemented a genetic and precision medicine strategy to support drug target selection and clinical programmes for the Pain and Sensory Disorders Research Unit. She was also a member of the ABPI Stratified Medicine Working Group. Earlier in her career, she worked within the Toxicogenomics group at GlaxoSmithKline. She gained postdoctoral experience at the University of Cambridge and Imperial College London and a PhD from the University of Cambridge, with a focus on the genetic susceptibility to disease.</p>
