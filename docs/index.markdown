@@ -83,6 +83,7 @@ Prior to joining ELIXIR, she was a Director within the Human Genetics and Comput
 
 <p style="text-align: justify; padding-right:10px;">
 Keynote title: **Translational Research in Digital Medicine - from Ideas to Product**
+	</p>
 <hr />
 
 ## Agenda
