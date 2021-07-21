@@ -82,7 +82,7 @@ Prior to joining ELIXIR, she was a Director within the Human Genetics and Comput
 <img align="right" src="../pics/keynote2021/JochenKlucken.jpg" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">
-Keynote title: **Translational Research in Digital Medicine - from Ideas to Product**
+Keynote title: <b>Translational Research in Digital Medicine - from Ideas to Product</b> <br><br>
 	</p>
 <hr />
 
