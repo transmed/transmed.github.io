@@ -79,8 +79,10 @@ Prior to joining ELIXIR, she was a Director within the Human Genetics and Comput
 <hr />
 	
 **[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
+<img align="right" src="../pics/keynote2021/JochenKlucken.jpg" width="150" style="padding-left:16px"/>
 
-Keynote title: **Personalized HealthTech Services: from data-driven innovation to Patient-centered Healthcare Application**
+<p style="text-align: justify; padding-right:10px;">
+Keynote title: **Translational Research in Digital Medicine - from Ideas to Product**
 <hr />
 
 ## Agenda
