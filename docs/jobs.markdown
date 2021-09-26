@@ -18,6 +18,6 @@ Two new open positions on scientific python & java software developers at LCSB -
 
 ## 01/02/2021
 
-<i>Closed</> Open position at LCSB, University of Luxembourg.Please check position  <a href="../jobs/preadapt_postdoc_position_2021.pdf">here</a>.
+<i>Closed</i> Open position at LCSB, University of Luxembourg.Please check position  <a href="../jobs/preadapt_postdoc_position_2021.pdf">here</a>.
 
 For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).
