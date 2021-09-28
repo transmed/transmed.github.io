@@ -8,6 +8,15 @@ permalink: /open-positions/
 
 If you have open positions on translational research in your Group and wish to share, please contact us on our [slack workspace](https://ismbtransmedcosi.slack.com)!
 
+## 28/09/2021
+New open positions in the context of the recently funded Innovative Medicine Initiative (IMI) project – ‘European Platform for Neurodegenerative Diseases (EPND)’ and the globally important projects like [ORCHESTRA](https://orchestra-cohort.eu/):
+
+[Postdoctoral fellow (Research Associate) in the field of clinical and translational medicine informatics](http://emea3.mrted.ly/2u31q)
+
+[Software Developer](http://emea3.mrted.ly/2u30b)
+
+[Scientific Python developer](http://emea3.mrted.ly/2u2wk)
+
 ## 26/09/2021
 
 Two new open positions on scientific python & java software developers at LCSB - University of Luxembourg. Please do not hesitate to contact us if there are any queries:
