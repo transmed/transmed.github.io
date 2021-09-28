@@ -9,7 +9,7 @@ permalink: /open-positions/
 If you have open positions on translational research in your Group and wish to share, please contact us on our [slack workspace](https://ismbtransmedcosi.slack.com)!
 
 ## 28/09/2021
-New open positions in the context of the recently funded Innovative Medicine Initiative (IMI) project – ‘European Platform for Neurodegenerative Diseases (EPND)’ and the globally important projects like [ORCHESTRA](https://orchestra-cohort.eu/):
+New open positions at LCSB - University of Luxembourg in the context of the recently funded Innovative Medicine Initiative (IMI) project – ‘European Platform for Neurodegenerative Diseases (EPND)’ and the globally important projects like [ORCHESTRA](https://orchestra-cohort.eu/). Please do not hesitate to contact us if there are any queries:
 
 [Postdoctoral fellow (Research Associate) in the field of clinical and translational medicine informatics](http://emea3.mrted.ly/2u31q)
 
