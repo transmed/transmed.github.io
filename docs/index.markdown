@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TransMed 2021
+# TransMed 2022
 
 ## Description
 
@@ -14,11 +14,11 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](https://transmed.github.io/TransMed_history).
 
-Link to the ISMB/ECCB 2021 website is: [here](https://www.iscb.org/ismbeccb2021).
+Link to the ISMB 2022 website is: [here](https://www.iscb.org/ismb2022).
 
 Please note:
 
-<span style="color:red">The TransMed 2021 meeting is a **virtual event** that takes place on July 25 - 26, 2021, during the ISMB/ECCB 2021 conference. </span>
+<span style="color:red">The TransMed 2022 meeting is a **virtual event** that takes place on July 10-14, 2022, during the ISMB 2022 conference. </span>
 
 ## Topics of interest
 
@@ -44,91 +44,23 @@ Topics of interest include, but are not limited to:
 </p>
 
 ## Keynote speakers
-<hr />
-**[Prof. Kenneth D. Mandl](https://scholar.harvard.edu/mandl)**, Harvard Medical School
-      
-<img align="right" src="../pics/keynote2021/mandlchipretreat2019-cropped.jpg" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">	
-	Keynote title: <b>21st Century healthcare is bringing computation to the bedside</b>	<br><br>
-	
-Biography: Dr. Kenneth Mandl directs the Computational Health Informatics Program at Boston Children's Hospital and is the Donald A.B. Lindberg Professor of Pediatrics and Biomedical Informatics at Harvard Medical School. He is trained as a pediatrician and pediatric emergency physician.
-</p>
-
-<p style="text-align: justify;">	
-His work at the intersection of population and individual health has had a unique, sustained influence on the developing field of biomedical informatics. Mandl’s Presidential Early Career Award for Scientists and Engineers was for pioneering real time biosurveillance, tracking infections and detecting outbreaks with diverse data. He has long advocated for patient participation in producing and accessing data and was a pioneer of the first personal health systems, using crowdsourced knowledge from online patient networks, and advancing participatory medicine and engagement in clinical trials.</p>
-
-<p style="text-align: justify;">	
-Cognizant of the limitations of extant electronic health record systems, Mandl developed a widely-adopted, highly influential approach (SMART)--substitutable apps that run universally on health IT systems. SMART lets innovators reach market scale and patients and doctors access an “app store for health.” Through the 21st Century Cures Act, SMART is now regulated as the standard interface by which patients, providers, and apps access data from electronic health records. He applies open source inventions to lead EHR research networks. He is a leader of the Genomics Research and Innovation Network across three leading children’s hospitals. He directs the Boston Children’s Hospital PrecisionLink Biobank for Health Discovery.</p>
-
-<hr />
-	
-**[Dr. Serena Scollen](https://www.linkedin.com/in/serena-scollen-82b4b513/)**, ELIXIR - EUROPE
-
-<img align="right" src="../pics/keynote2021/SerenaScollen.png" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">	
-	Keynote title: <b>Towards cross-border access to beyond one million sequenced human genomes</b> <br><br>
-	
-Biography: Dr. Scollen is the Head of Human Genomics and Translational Data at ELIXIR, the European infrastructure for bioinformatics and life-science data, based in Hinxton, UK. Her vision is to ensure data that can be shared, will be shared responsibly. She is working with scientists across Europe to establish standards and infrastructure to facilitate discoverability, access, sharing and analysis of genomics data, linked to other data types and at a scale that has not previously been achieved. Developing infrastructure will unleash new possibilities for genomics and health. Serena is the coordinator of the B1MG project, a €4M EU H2020 Coordination and Support Action that is aligned with the 1+ Million Genomes Initiative (1+MG). This initiative is a commitment of 24 European countries to give cross-border access to one million sequenced genomes by 2022. She is also project lead for the Innovative Medicine Initiative (IMI) FAIRplus project, an €8.3M collaboration that sets out to improve data sharing and reuse in life science research.</p>
-	
-<p style="text-align: justify;">
-Prior to joining ELIXIR, she was a Director within the Human Genetics and Computational Biomedicine group at Pfizer. In this role, she led and implemented a genetic and precision medicine strategy to support drug target selection and clinical programmes for the Pain and Sensory Disorders Research Unit. She was also a member of the ABPI Stratified Medicine Working Group. Earlier in her career, she worked within the Toxicogenomics group at GlaxoSmithKline. She gained postdoctoral experience at the University of Cambridge and Imperial College London and a PhD from the University of Cambridge, with a focus on the genetic susceptibility to disease.</p>
-
-
-<hr />
-	
-**[Prof. Jochen Klucken](https://www.linkedin.com/in/jochenklucken4digitalmedicine/?originalSubdomain=de)**, University of Luxembourg
-<img align="right" src="../pics/keynote2021/JochenKlucken.jpg" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">
-Keynote title: <b>Translational Research in Digital Medicine - from Ideas to Product</b> <br><br>
-		
-Biography: Jochen Klucken is a full professor at the University of Luxembourg (UL/LCSB) and holds the FNR Pearl Chair in Digital Medicine, also affiliated with the with the Luxembourg Institute of Health (LIH) and the Central Hospital of Luxembourg (CHL). This new field of Digital Medicine tries to understand how patient-centered technology can be used in everyday medical practice, and which evidence assessment is needed to not only understand the medical benefits of healthcare technologies, but also their patient- and social acceptance and economical efficacy. Here, the major goal lies in clinical studies for healthcare technologies providing evidence for their medical, social, ethical and legal benefit as well as economic efficiency ultimately generating a concept of “clinical validation of healthcare technologies and services”.</p>
-<p style="text-align: justify; padding-right:10px;">
-Jochen earned his MD in Laboratory Medicine and specialized in Neurology. He finished his habilitation thesis in 2009 in translational neuroscience in Parkinson’s disease including work at the Massachusetts Institute for Neurodegenerative Diseases, <b>Harvard Medical School</b>, Boston, USA on neurodegenerative processes in Parkinson’s disease. In 2004 he also started translational research projects in the field of medical technology (m/eHealth) applying sensor-based motion detection in movement disorders. Jointly with engineers and data-scientists, he developed novel gait-specific instrumented movement analysis concepts for <b>Parkinson’s disease, multiple sclerosis, osteoarthritis, sarcopenia, oncology and healthy well-being of the elderly</b>. From 2008 until 2021 he was a senior physician at the Movement Disorder Unit (Department of Molecular Neurology, University Hospital Erlangen, Germany) and developed sensor-based gait analysis for patients with movement disorders. From 2018-2021 he also lead a group at Fraunhofer IIS, Erlangen, Germany with the focus on developing digital health pathways that enable technology integration into healthcare workflows. In 2019 he also established a contract research organization (Medical Valley Digital Health Application Center - dmac) supporting personalized healthcare technologies in order to get access to the German healthcare market.</p>
-<p style="text-align: justify; padding-right:10px;">
-Within the scientific community he initiated and leads the task-force <b>“Telehealth Services” of the Germany Parkinson Society (DPG)</b>, he is a founding member of the task-force <b>“technology” of the international movement disorder society (MDS)</b>, and he is the chairman of the advisory board “e-health, telematics methods) of the <b>Professional Association of German Neurologists (BDN)</b>. On political and societal level including patient-support groups he promotes the use of mobile healthcare technologies and innovations for comprehensive digital healthcare services, clinical studies and care. In addition, he participates in spin-offs/start-ups in the field of sensor-based movement analysis, and is advising several pharmaceutical companies and healthcare insurances/services on the topic of wearable derived objective outcomes.</p>
-<hr />
+[TDC]
 
 ## Agenda
 
-Please check [here](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/transmed) the schedule of the TransMed 2021 COSI meeting.
+[TDC]
 
 ## Abstract submission
 
-Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
-
-For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
-
-Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts).
-
-Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2021.
+[TDC]
 
 ## Key dates
+[TDC]
 
-**Abstract submissions deadline**: 
-<br /><span style="color:red">May 6, 2021 (EDT)</span>
 
-**Poster and Presentation acceptance notifications**:
-<br />May 27, 2021
-
-**Late Posters submissions deadline**: 
-<br />June 3, 2021 (EDT)
-
-**Late Posters Acceptance Notifications**: 
-<br />June 10, 2021
-
-***Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform**: 
-<br />July 8, 2021
-
-**TransMed 2021 COSI meeting**: 
-<br />July 25 - 26, 2021
-
-Detailed information can be found: [here](https://www.iscb.org/ismbeccb2021-keydates).
 
 ## Registration
-Please follow the registration page on the ISMB website: [TransMed COSI Registration](https://www.iscb.org/ismbeccb2021-registration).
+[TBC]
 
 ## Organizing committee
 
@@ -148,15 +80,7 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
-Konstantina Dimitrakopoulou, King’s College London, UK
-
-Soumyabrata Ghosh, University of Luxembourg, Luxembourg
-
-Alexander Mazein, University of Luxembourg, Luxembourg
-
-Alina Sirbu, University of Pisa, Italy
-
-Danielle Welter, University of Luxembourg, Luxembourg
+[TBC]
 
 ## Contact us
 
@@ -164,7 +88,7 @@ If you have any questions, please do not hesitate to contact us by our [slack wo
 
 ## Follow us
 
-Twitter: [#TransMed2021](https://twitter.com/cosi_transmed)
+Twitter: [#TransMed2022](https://twitter.com/cosi_transmed)
 
 Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/groups/8478286)
 
