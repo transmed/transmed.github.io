@@ -18,4 +18,4 @@ Information of previous TransMed meetings:
 
 * [TransMed 2016](https://transmed.github.io/TransMed2016).
 
-For more information on the TransMed 2021 meeting please go [here](https://transmed.github.io/).
+For more information on the TransMed 2022 meeting please go [here](https://transmed.github.io/).
