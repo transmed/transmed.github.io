@@ -1,10 +1,11 @@
 ---
 layout: default
+title: TransMed 2021 Meeting
+permalink: /TransMed2021/
 ---
 
-# TransMed 2021
 
-## Description
+# Description 
 
 <img src="pics/transmed_logo.jpg" alt="drawin" style="float: left" width="120"/> 
 
