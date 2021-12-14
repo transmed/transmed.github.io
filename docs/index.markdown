@@ -72,9 +72,13 @@ Topics of interest include, but are not limited to:
 
 **Wei Gu** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
 
-**Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
-
 **Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Sanne Abeln** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
+
+**Heba Sailem** [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
+
+**Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
 Meet the Organizing committee [here](https://transmed.github.io/team/).
 
