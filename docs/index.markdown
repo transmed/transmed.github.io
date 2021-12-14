@@ -76,7 +76,7 @@ Topics of interest include, but are not limited to:
 
 **Sanne Abeln** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
 
-**Heba Sailem** [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
+**Heba Sailem** - [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
 
 **Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
