@@ -48,19 +48,43 @@ Topics of interest include, but are not limited to:
 
 ## Agenda
 
-[TDC]
+<!-- Please check [here](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/transmed) the schedule of the TransMed 2021 COSI meeting. -->
 
 ## Abstract submission
 
-[TDC]
+<!-- Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
+
+For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
+
+Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). -->
+
+Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2022.
 
 ## Key dates
-[TDC]
+<!--
+**Abstract submissions deadline**: 
+<br /><span style="color:red">May 6, 2021 (EDT)</span>
 
+**Poster and Presentation acceptance notifications**:
+<br />May 27, 2021
 
+**Late Posters submissions deadline**: 
+<br />June 3, 2021 (EDT)
+
+**Late Posters Acceptance Notifications**: 
+<br />June 10, 2021
+
+***Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform**: 
+<br />July 8, 2021
+
+**TransMed 2021 COSI meeting**: 
+<br />July 25 - 26, 2021
+-->
+
+Detailed information can be found: [here](https://www.iscb.org/ismb2022-key-dates).
 
 ## Registration
-[TBC]
+Please follow the registration page on the [ISMB website](https://www.iscb.org/ismb2022-register).
 
 ## Organizing committee
 
