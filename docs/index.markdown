@@ -18,7 +18,7 @@ Link to the ISMB 2022 website is: [here](https://www.iscb.org/ismb2022).
 
 Please note:
 
-<span style="color:red">The TransMed 2022 meeting is a **virtual event** that takes place on July 10-14, 2022, during the ISMB 2022 conference. </span>
+<span style="color:red">The TransMed 2022 meeting takes place in Madison, USA, on July 12, 2022, during the ISMB 2022 conference. </span>
 
 ## Topics of interest
 
