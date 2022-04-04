@@ -44,7 +44,16 @@ Topics of interest include, but are not limited to:
 </p>
 
 ## Keynote speakers
-[TDC]
+
+<hr />
+	
+**[Dr. Elana J Fertig](https://fertiglab.com/)**, SKCCC / Johns Hopkins University
+
+<hr />
+**[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
+
+<hr />
+	
 
 ## Agenda
 
