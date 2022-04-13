@@ -18,7 +18,7 @@ Link to the ISMB 2022 website is: [here](https://www.iscb.org/ismb2022).
 
 Please note:
 
-<span style="color:red">The TransMed 2022 meeting is a **virtual event** that takes place on July 10-14, 2022, during the ISMB 2022 conference. </span>
+<span style="color:red">The TransMed 2022 meeting takes place in Madison, USA, on July 12, 2022, during the ISMB 2022 conference. </span>
 
 ## Topics of interest
 
@@ -44,23 +44,61 @@ Topics of interest include, but are not limited to:
 </p>
 
 ## Keynote speakers
-[TDC]
+
+<hr />
+	
+**[Dr. Elana J Fertig](https://fertiglab.com/)**, SKCCC / Johns Hopkins University
+<img align="right" src="../pics/keynote2022/ElanaFertig.jpg" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">	
+Biography: Dr. Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
+</p>
+
+<hr />
+**[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
+
+<hr />
+	
 
 ## Agenda
 
-[TDC]
+<!-- Please check [here](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/transmed) the schedule of the TransMed 2021 COSI meeting. -->
 
 ## Abstract submission
 
-[TDC]
+<!-- Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
+
+For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
+
+Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). -->
+
+Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2022.
 
 ## Key dates
-[TDC]
+<!--
+**Abstract submissions deadline**: 
+<br /><span style="color:red">May 6, 2021 (EDT)</span>
 
+**Poster and Presentation acceptance notifications**:
+<br />May 27, 2021
 
+**Late Posters submissions deadline**: 
+<br />June 3, 2021 (EDT)
+
+**Late Posters Acceptance Notifications**: 
+<br />June 10, 2021
+
+***Poster & Talk Pre-recorded talk presentations uploaded for virtual conference platform**: 
+<br />July 8, 2021
+
+**TransMed 2021 COSI meeting**: 
+<br />July 25 - 26, 2021
+-->
+
+Detailed information can be found: [here](https://www.iscb.org/ismb2022-key-dates).
 
 ## Registration
-[TBC]
+Please follow the registration page on the [ISMB website](https://www.iscb.org/ismb2022-register).
 
 ## Organizing committee
 
@@ -76,7 +114,7 @@ Topics of interest include, but are not limited to:
 
 **Sanne Abeln** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
 
-**Heba Sailem** [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
+**Heba Sailem** - [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
 
 **Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
