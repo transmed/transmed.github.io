@@ -48,6 +48,11 @@ Topics of interest include, but are not limited to:
 <hr />
 	
 **[Dr. Elana J Fertig](https://fertiglab.com/)**, SKCCC / Johns Hopkins University
+<img align="right" src="../pics/keynote2022/ElanaFertig.jpg" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">	
+Biography: Dr. Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
+</p>
 
 <hr />
 **[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
