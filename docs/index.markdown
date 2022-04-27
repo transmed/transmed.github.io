@@ -116,13 +116,25 @@ Please follow the registration page on the [ISMB website](https://www.iscb.org/i
 
 **Heba Sailem** - [University of Oxford](https://eng.ox.ac.uk/people/heba-sailem/), UK
 
+**Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
+
+**Annop Mayampurath** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
+
 **Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
 Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
-[TBC]
+Irina Mohorianu - Wellcome-MRC Cambridge Stem Cell Institute, UK  
+
+Rajesh  Rawal - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Muhammad  Shoaib - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg 
+
+Xinhui  Wang -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Danielle  Welter  - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
 
 ## Contact us
 
