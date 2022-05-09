@@ -128,6 +128,8 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 Nikolaus Berndt - Charité Universitätsmedizin Berlin, Germany
 
+Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
 Irina Mohorianu - Wellcome-MRC Cambridge Stem Cell Institute, UK  
 
 Rajesh  Rawal - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
