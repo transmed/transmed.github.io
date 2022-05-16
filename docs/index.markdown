@@ -51,11 +51,19 @@ Topics of interest include, but are not limited to:
 <img align="right" src="../pics/keynote2022/ElanaFertig.jpg" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
-Biography: Dr. Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
+Biography: Elana Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
 </p>
 
 <hr />
+
 **[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
+<img align="right" src="../pics/keynote2022/AnthonyBrookes.png" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">	
+Biography: Anthony Brookes is a Professor of Genomics and Health Data Research at the University of Leicester (UK). Here he drives strategic initiatives as an Associate Director for the Health Data Research UK institute (HDRUK-Midlands), and is Director of the University’s ‘NUCLEUS’ Genomics Facility. Prior to this position he held a Genomics Professorship at the Karolinska Institute (Sweden) where he established a high-throughput genotyping and biobanking facility in the institute's Centre for Genomics Research. He has published >200 articles and reviews [15,000 citations; h-index 54 (Google Scholar)], co-founded both the Human Variome Project and the Human Genome Variation Society, and now serves on the Executive Committee of the Human Genome Organisation (HUGO). 
+	
+He has a long-standing research program concerned with responsible data discovery, data sharing, and interoperability standards to bridge the research-healthcare data divide, especially in the areas of rare inherited disease and late-onset dementia. Research activities include: running GWAS Central (the world’s largest public GWAS database); creating 'Café Variome' (a flexible platform for sample/subject/data discovery); revealing the 'TUF' phenomenon (genomic DNA sequences which do not denature in standard analysis methods); inventing the 'DASH' method for reading DNA sequences by dynamic hybridisation; and leading various international standards teams (e.g., the GA4GH ‘ADA-M’ data model for consent and data use conditions, the IRDiRC computer-readable 'Digital Use Conditions standard (DUC)', and the GA4GH 'Beacon-2' API for federated data discovery). He is currently co-coordinator and IT lead on the EU-IMI and Gates Ventures  funded program entitled 'The European Platform for Neurodegenerative Diseases (EPND)' which is establishing a global data ecosystem for discovering, integrating, accessing and analysing cohorts, samples and datasets pertaining to dementia, to advance biomarker and drug development for these disorders. 
+</p>
 
 <hr />
 	
@@ -127,6 +135,8 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 ## Programme committee (alphabetical order)
 
 Nikolaus Berndt - Charité Universitätsmedizin Berlin, Germany
+
+Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
 
 Irina Mohorianu - Wellcome-MRC Cambridge Stem Cell Institute, UK  
 
