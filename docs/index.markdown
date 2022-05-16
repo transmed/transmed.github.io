@@ -57,7 +57,7 @@ Biography: Elana Fertig is an Associate Professor of Oncology and Director of th
 <hr />
 
 **[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
-<img align="right" src="../pics/keynote2022/AnthonyBrookes.jpg" width="150" style="padding-left:16px"/>
+<img align="right" src="../pics/keynote2022/AnthonyBrookes.png" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">	
 Biography: Anthony Brookes is a Professor of Genomics and Health Data Research at the University of Leicester (UK). Here he drives strategic initiatives as an Associate Director for the Health Data Research UK institute (HDRUK-Midlands), and is Director of the University’s ‘NUCLEUS’ Genomics Facility. Prior to this position he held a Genomics Professorship at the Karolinska Institute (Sweden) where he established a high-throughput genotyping and biobanking facility in the institute's Centre for Genomics Research. He has published >200 articles and reviews [15,000 citations; h-index 54 (Google Scholar)], co-founded both the Human Variome Project and the Human Genome Variation Society, and now serves on the Executive Committee of the Human Genome Organisation (HUGO). 
