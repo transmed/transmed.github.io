@@ -28,7 +28,7 @@ Topics of interest include, but are not limited to:
  * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
 
 <p style="text-align: justify;">
-  * <b>FAIRification, curation and harmonization of clinical, ’omics and imaging data, including: FAIR approaches and RDA indicators, standards and ontologies in translational medicine, biomedical text mining and semantic representation
+  * <b>FAIRification, curation and harmonization of clinical, ’omics and imaging data</b>, including: FAIR approaches and RDA indicators, standards and ontologies in translational medicine, biomedical text mining and semantic representation
 </p>
 <p style="text-align: justify;">
   * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
