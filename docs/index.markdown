@@ -154,7 +154,7 @@ If you have any questions, please do not hesitate to contact us by our [slack wo
 
 ## Follow us
 
-Twitter: [#TransMed2022](https://twitter.com/cosi_transmed)
+Twitter: [@TransMedISMB](https://twitter.com/TransMedISMB)
 
 Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/groups/8478286)
 
