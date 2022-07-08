@@ -46,26 +46,12 @@ Topics of interest include, but are not limited to:
 ## Keynote speakers
 
 <hr />
-	
-**[Dr. Elana J Fertig](https://fertiglab.com/)**, SKCCC / Johns Hopkins University
-<img align="right" src="../pics/keynote2022/ElanaFertig.jpg" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">	
-Biography: Elana Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
-</p>
-
-<p style="text-align: justify; padding-right:10px;">	
-<b>Learning cellular interactions from spatial transcriptomics with SpaceMarkers </b></p>
-
-<p style="text-align: justify; padding-right:10px;">Presentation Overview
-	
-Spatial molecular data provides unprecedented characterization of the cellular and molecular architecture of human tissue and disease. These technologies are particularly important for cancer immunotherapy, in which the interactions between diverse cell types mediate therapeutic response and resistance. In this talk, we describe how spatial molecular data enable us to uncover mechanisms of therapeutic response and resistance in a liver cancer immunotherapy clinical trial. Moreover, our new analysis approach SpaceMarkers to infer molecular changes from cell-cell interaction from latent space analysis of ST data from this trial. Further transfer learning in matched scRNA-seq data enabled further quantification of the specific cell types in which SpaceMarkers are enriched. Altogether, SpaceMarkers can identify the location and context-specific molecular interactions within the TME from ST data.
-</p>
-
-<hr />
 
 **[Prof. Anthony Brookes](https://www2.le.ac.uk/departments/genetics/people/brookes)**, University of Leicester
 <img align="right" src="../pics/keynote2022/AnthonyBrookes.png" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">	
+<b>"Data Science": A trendy name for conventional research using data, or a truly revolutionary new discipline?</b></p>
 
 <p style="text-align: justify; padding-right:10px;">	
 Biography: Anthony Brookes is a Professor of Genomics and Health Data Research at the University of Leicester (UK). Here he drives strategic initiatives as an Associate Director for the Health Data Research UK institute (HDRUK-Midlands), and is Director of the University’s ‘NUCLEUS’ Genomics Facility. Prior to this position he held a Genomics Professorship at the Karolinska Institute (Sweden) where he established a high-throughput genotyping and biobanking facility in the institute's Centre for Genomics Research. He has published >200 articles and reviews [15,000 citations; h-index 54 (Google Scholar)], co-founded both the Human Variome Project and the Human Genome Variation Society, and now serves on the Executive Committee of the Human Genome Organisation (HUGO). </p>
@@ -73,13 +59,26 @@ Biography: Anthony Brookes is a Professor of Genomics and Health Data Research a
 He has a long-standing research program concerned with responsible data discovery, data sharing, and interoperability standards to bridge the research-healthcare data divide, especially in the areas of rare inherited disease and late-onset dementia. Research activities include: running GWAS Central (the world’s largest public GWAS database); creating 'Café Variome' (a flexible platform for sample/subject/data discovery); revealing the 'TUF' phenomenon (genomic DNA sequences which do not denature in standard analysis methods); inventing the 'DASH' method for reading DNA sequences by dynamic hybridisation; and leading various international standards teams (e.g., the GA4GH ‘ADA-M’ data model for consent and data use conditions, the IRDiRC computer-readable 'Digital Use Conditions standard (DUC)', and the GA4GH 'Beacon-2' API for federated data discovery). He is currently co-coordinator and IT lead on the EU-IMI and Gates Ventures  funded program entitled 'The European Platform for Neurodegenerative Diseases (EPND)' which is establishing a global data ecosystem for discovering, integrating, accessing and analysing cohorts, samples and datasets pertaining to dementia, to advance biomarker and drug development for these disorders. 
 </p>
 
-<p style="text-align: justify; padding-right:10px;">	
-<b>"Data Science": A trendy name for conventional research using data, or a truly revolutionary new discipline?</b></p>
-
-<p style="text-align: justify; padding-right:10px;">Presentation Overview
-Over the last 20 years the kind of "data wrangling" research I do has been called information technology, then bioinformatics, and more recently health data science - with all three names being open to subjective interpretation. Considerable funding is currently directed towards health data science, which many take to mean "the use of data to derive new knowledge or utility". But in my view such activities are not really health data science, but simply health research. In contrast, I contend that health data science entails a virtuous circle that connects novel methods research to innovative data engineering in order to access and leverage especially large or challenging datasets in new ways (thereby identifying the need for further new methods). Some examples of this virtuous circle will be presented, in the context of making valuable and sensitive assets (data, patients, samples, etc) responsibly discoverable and thereby more widely used.
+<p style="text-align: justify; padding-right:10px;">Presentation Overview: 
+Over the last 20 years the kind of "data wrangling" research I do has been called information technology, then bioinformatics, and more recently health data science - with all three names being open to subjective interpretation. Considerable funding is currently directed towards health data science, which many take to mean "the use of data to derive new knowledge or utility". But in my view such activities are not really health data science, but simply health research. In contrast, I contend that health data science entails a virtuous circle that connects novel methods research to innovative data engineering in order to access and leverage especially large or challenging datasets in new ways (thereby identifying the need for further new methods). Some examples of this virtuous circle will be presented, in the context of making valuable and sensitive assets (data, patients, samples, etc) responsibly discoverable and thereby more widely used.</p>
 <hr />
 	
+**[Dr. Elana J Fertig](https://fertiglab.com/)**, SKCCC / Johns Hopkins University
+<img align="right" src="../pics/keynote2022/ElanaFertig.jpg" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">	
+<b>Learning cellular interactions from spatial transcriptomics with SpaceMarkers </b></p>
+
+<p style="text-align: justify; padding-right:10px;">	
+Biography: Elana Fertig is an Associate Professor of Oncology and Director of the Division / Research Program in Quantitative Sciences, co-Director of the Convergence Institute, co-Director of the Single-Cell Training and Analysis Center, and Associate Director of Quantitative Sciences at the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center. She has secondary appointments in Biomedical Engineering and Applied Mathematics and Statistics, affiliations in the Institute of Computational Medicine, Center for Computational Genomics, Machine Learning, Mathematical Institute for Data Science, and the Center for Computational Biology and is a Daniel Nathans Scientific Innovator.
+</p>
+
+<p style="text-align: justify; padding-right:10px;">Presentation Overview: 
+	
+Spatial molecular data provides unprecedented characterization of the cellular and molecular architecture of human tissue and disease. These technologies are particularly important for cancer immunotherapy, in which the interactions between diverse cell types mediate therapeutic response and resistance. In this talk, we describe how spatial molecular data enable us to uncover mechanisms of therapeutic response and resistance in a liver cancer immunotherapy clinical trial. Moreover, our new analysis approach SpaceMarkers to infer molecular changes from cell-cell interaction from latent space analysis of ST data from this trial. Further transfer learning in matched scRNA-seq data enabled further quantification of the specific cell types in which SpaceMarkers are enriched. Altogether, SpaceMarkers can identify the location and context-specific molecular interactions within the TME from ST data.
+</p>
+
+<hr />	
 
 ## Agenda
 
