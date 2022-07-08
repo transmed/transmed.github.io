@@ -82,7 +82,7 @@ Spatial molecular data provides unprecedented characterization of the cellular a
 
 ## Agenda
 
-<!-- Please check [here](https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/transmed) the schedule of the TransMed 2021 COSI meeting. -->
+Please check the schedule of the TransMed 2022 COSI meeting at [https://www.iscb.org/cms_addon/conferences/ismbeccb2021/tracks/transmed](https://www.iscb.org/ismb2022-program/abstracts/transmed). 
 
 ## Abstract submission
 
