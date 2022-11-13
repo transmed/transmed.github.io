@@ -5,6 +5,7 @@ permalink: /TransMed_history/
 ---
 
 Information of previous TransMed meetings:
+* [TransMed 2022](https://transmed.github.io/TransMed2022). 
 
 * [TransMed 2021](https://transmed.github.io/TransMed2021). 
 
@@ -18,4 +19,4 @@ Information of previous TransMed meetings:
 
 * [TransMed 2016](https://transmed.github.io/TransMed2016).
 
-For more information on the TransMed 2022 meeting please go [here](https://transmed.github.io/).
+For more information on the TransMed 2023 meeting please go [here](https://transmed.github.io/).
