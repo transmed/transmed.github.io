@@ -1,8 +1,9 @@
 ---
 layout: default
+title: TransMed 2022 Meeting
+permalink: /TransMed2022/
 ---
 
-# TransMed 2022
 
 ## Description
 
