@@ -49,7 +49,7 @@ permalink: /team/
     </tr>
  </table>
     
- For more information on the TransMed 2022 meeting please go [here](https://transmed.github.io/).
+ For more information on the TransMed meeting please go [here](https://transmed.github.io/).
 
 
 
