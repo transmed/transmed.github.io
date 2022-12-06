@@ -48,6 +48,8 @@ permalink: /team/
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Mansoor Saqi</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Translational Bioinformatics, Honorary Senior Lecture <br />Faculty of Life Sciences & Medicine, NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust and King's College London, UK</font></p></td>
     </tr>
  </table>
+
+ We are also extremely grateful to [our colleagues](https://transmed.github.io/alumni) who were organizers during our previous TransMed meetings.
     
  For more information on the TransMed meeting please go [here](https://transmed.github.io/).
 
