@@ -39,10 +39,10 @@ permalink: /team/
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/IreneOng.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irene Ong</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Assistant Professor <br />University of Wisconsin-Madison, USA</font></p></td>
     </tr>
-    <tr>
+<!--   <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/AnnopMayampurath.jpeg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Annop Mayampurath</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Assistant Professor <br />University of Wisconsin-Madison, USA</font></p></td>
-    </tr>
+    </tr> -->
         <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/MansoorSaqi.jpeg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Mansoor Saqi</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Translational Bioinformatics, Honorary Senior Lecture <br />Faculty of Life Sciences & Medicine, NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust and King's College London, UK</font></p></td>
