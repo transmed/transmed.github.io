@@ -49,7 +49,7 @@ permalink: /team/
     </tr>
  </table>
 
- We are also extremely grateful to [our colleagues](https://transmed.github.io/alumni) who were organizers during our previous TransMed meetings.
+ We are also extremely grateful to [our colleagues](https://transmed.github.io/TransMed_history/) who were organizers during our previous TransMed meetings.
     
  For more information on the TransMed meeting please go [here](https://transmed.github.io/).
 

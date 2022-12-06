@@ -4,7 +4,20 @@ title: Previous TransMed meetings
 permalink: /TransMed_history/
 ---
 
-Information of previous TransMed meetings:
+## Alumni Organizers
+
+We are extremely grateful to our colleagues who were organizers during our previous TransMed meetings.
+
+<p style="text-align: justify;">
+ - Prof. Bissan Al-Lazikani, The Institute of Cancer Research, UK - organizer for TransMed 2016 at ISMB2016 in Orlando, USA
+ </p>
+
+<p style="text-align: justify;">
+ - Dr. Anoop Mayampurath, University of Wisconsin-Madison, USA - organizer for TransMed 2022 at ISMB2022 in Madison, USA
+</p>
+
+
+## Information of previous TransMed meetings:
 * [TransMed 2022](https://transmed.github.io/TransMed2022). 
 
 * [TransMed 2021](https://transmed.github.io/TransMed2021). 
@@ -19,4 +32,4 @@ Information of previous TransMed meetings:
 
 * [TransMed 2016](https://transmed.github.io/TransMed2016).
 
-For more information on the TransMed 2023 meeting please go [here](https://transmed.github.io/).
+For more information on the TransMed meeting please go [here](https://transmed.github.io/).
