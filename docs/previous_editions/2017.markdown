@@ -43,11 +43,43 @@ Topics of interest include, but are not limited to:
 
 ## Keynote speakers 
 
-[Dr. Anguraj Sadanandam](http://www.icr.ac.uk/our-research/researchers-and-teams/dr-anguraj-sadanandam), The Institute of Cancer Research, UK
+**[Dr. Anguraj Sadanandam](http://www.icr.ac.uk/our-research/researchers-and-teams/dr-anguraj-sadanandam)**, The Institute of Cancer Research, UK
 
-[Prof. Tim Hubbard](https://kclpure.kcl.ac.uk/portal/tim.hubbard.html), King's College London, UK
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Anguraj Sadanandam completed his interdisciplinary (wet-lab and computational
+biology) Ph.D. from University of Nebraska Medical Center, Omaha, Nebraska, and continued postdoc under Professors Joe Gray and Douglas Hanahan (USA and Switzerland). 
 
-[Prof. Barend Mons](https://www.lumc.nl/org/humane-genetica/medewerkers/barend-mons?setlanguage=English&setcountry=en), Leiden University Medical Center, NL
+Briefly worked at Swiss Institute of Bioinformatics. Currently leading Systems and Precision Medicine team at the Institute of Cancer Research (ICR). 
+
+His team uses cutting-edge wet-lab and computational biology to focus on inter- and intra-tumoral heterogeneity at the genetic, epigenetic, molecular and metabolic levels   and to understand how they contribute to variations in metastatic potential, prognosis and therapeutic responses in patients. 
+
+</p>
+
+<hr />
+
+**[Prof. Tim Hubbard](https://kclpure.kcl.ac.uk/portal/tim.hubbard.html)**, King's College London, UK
+
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Tim Hubbard is Head of the Department of Medical & Molecular Genetics at King's College London and Director of Bioinformatics for King's Health Partners. He is also Head of Genome Analysis at Genomics England, the company set up by the Department of Health to execute the 100,000 genomes project, which aims to mainstream the use of whole genome sequence analysis for treatment in the UK National Health Service (NHS). Until 2013 he was Head of Informatics at the Wellcome Trust Sanger Institute where he was one of the organisers of the sequencing of the human genome. In 1999 he co-founded the Ensembl project to analysis, organise and provide access to the human genome and from 2007 led the GENCODE project to annotate the structure of all human genes.
+
+</p>
+
+<hr />
+
+**[Prof. Barend Mons](https://www.lumc.nl/org/humane-genetica/medewerkers/barend-mons?setlanguage=English&setcountry=en)**, Leiden University Medical Center, NL
+
+<p style="text-align: justify; padding-right:10px;">  
+
+Biography: Barend Mons is a molecular biologist by training (PhD Leiden University 1986). 
+He spent over 15 years in malaria research in close collaboration with endemic countries. After that he gained experience in computer-assisted knowledge discovery, which is still his research focus. He spent time with the European Commission as a Seconded National Expert with the INCO-DC pogramme (1993-1996) and with the Netherlands Organisation for Scientific Research (NWO 1966-1999). Barend also co-founded several spin off companies.  
+in 2000 he founded the biosemantics group in Rotterdam and later also in Leiden. Currently , Barend is Professor in Biosemantics at the Human Genetics department of Leiden University Medical Center, is Head of Node for ELIXIR-NL at the Dutch Techcentre for Life Sciences, Integrator Life Sciences at the Netherlands eScience Center, and board member of the Leiden Centre of Data Science. 
+
+In 2014, Barend initiated the FAIR data initiative and in 2015, he was appointed Chair of the European Commission's High Level Expert Group for the  "European Open Science Cloud". Presently, Barend is co-leading the GO FAIR initiative.
+
+</p>
+
+<hr />
+
 
 ## Agenda 
 
