@@ -64,7 +64,9 @@ For proceedings submission, the deadline is <span style="color:blue">January 28,
 
 Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). -->
 
-Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.
+Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.-->
+
+Please follow the abstract submission indications from [the ISMB/ECCB 2023 website](https://www.iscb.org/ismbeccb2023-submissions/abstracts#about).
 
 ## Key dates
 
