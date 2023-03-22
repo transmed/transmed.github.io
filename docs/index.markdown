@@ -62,7 +62,7 @@ TBC
 
 For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
 
-Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). -->
+Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). 
 
 Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.-->
 
