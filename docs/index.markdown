@@ -113,7 +113,8 @@ Marcio Luis Acencio -  Luxembourg Centre For Systems Biomedicine (LCSB), Univers
 
 Basel Alshaikhdeeb -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
 
-Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
+
 Soumyabrata Ghosh -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
 
 Mirek Kratochvil -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
