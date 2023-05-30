@@ -46,8 +46,17 @@ Topics of interest include, but are not limited to:
 ## Keynote speakers
 
 <hr />
+  
+**[Prof. Alfonso Valencia](https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology)**, Barcelona Supercomputing Center (BSC),  Spanish National Bioinformatics Institute (INB-ISCIII), ELIXIR-ES and IMPaCT
+<img align="right" src="../pics/keynote2023/AlfonsoValencia.jpg" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES and coordinator of the data pillar of the Spanish Personalised Medicine intiative, IMPaCT. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution, disease networks and more recently modelling cellular systems (digital twins). He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of the ELIXIR infrastructure, founder of the Spanish and International Bioinformatics networks and former president of ISCB, the international professional association of Bioinformaticians. He is Executive Editor of the main journal in the field (Bioinformatics OUP). 
+</p>
+
+<hr />
 	
-TBC
+
 
 <hr />
 	
