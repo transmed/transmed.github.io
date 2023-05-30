@@ -103,8 +103,6 @@ Please follow the registration page on the [ISCB website](https://www.iscb.org/i
 
 **Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
 
-**Annop Mayampurath** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
-
 **Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
 
 Meet the Organizing committee [here](https://transmed.github.io/team/).
