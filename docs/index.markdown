@@ -74,10 +74,6 @@ Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the L
 <hr />
 	
 
-
-<hr />
-	
-
 ## Agenda
 
 Please check it [here](https://www.iscb.org/ismbeccb2023-programme/tracks/transmed).
