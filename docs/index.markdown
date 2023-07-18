@@ -48,7 +48,7 @@ Topics of interest include, but are not limited to:
 <hr />
 
 **[Dr. Maggie Chon U Cheang](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-maggie-cheang)**, Integrative Genomic Analysis in Clinical Trials, CRUK Clinical Trials and Statistics Unit, Division of Clinical Studies, The Institute of Cancer Research, London, UK
-<img align="right" src="../pics/keynote2023/MaggieCheang.jpg" width="150" style="padding-left:16px"/>
+<img align="right" src="../pics/keynote2023/MaggieCheang.JPG" width="150" style="padding-left:16px"/>
 
 <p style="text-align: justify; padding-right:10px;">  
 Biography: Dr. Maggie Cheang is the Group Leader of the Integrative Genomics Analysis in clinical trials, Division of Clinical Studies, ICR. Her primary research focus is to identify biomarkers that would be clinically relevant. Combining biological knowledge and advanced statistical analytics/machine learning to model the multi-scale multi- “omics data” with clinical outcome, her team has been developing multi-parametric molecular classifiers to predict sensitivity and resistance of tumour biological subtype to therapeutic agents and testing the performance of one of these integrated omics/mathematical algorithms within a Phase III clinical trial at this moment. She co-invented the 50 genes-based classifier for the intrinsic subtypes of breast cancer, commonly known as PAM50, which is licensed as Prosigna and has been implemented into multiple international clinical practice guidelines. She chairs the UK National Cancer Research Institute (NCRI) Clinical Trial Pathology Advisory Group, a group that spearheaded the concept of implementing a multidisciplinary proposal guidance. She also sits on various grant review panels including the MRC/UKRI and Breast Cancer Now scientific grant committee. 
@@ -80,7 +80,7 @@ Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the L
 
 ## Agenda
 
-TBC
+Please check it [here](https://www.iscb.org/ismbeccb2023-programme/tracks/transmed).
 
 ## Abstract submission
 
