@@ -71,6 +71,30 @@ Abstract of the talk: My group is embedded within the CRUK Clinical Trials and S
 Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES and coordinator of the data pillar of the Spanish Personalised Medicine intiative, IMPaCT. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution, disease networks and more recently modelling cellular systems (digital twins). He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of the ELIXIR infrastructure, founder of the Spanish and International Bioinformatics networks and former president of ISCB, the international professional association of Bioinformaticians. He is Executive Editor of the main journal in the field (Bioinformatics OUP). 
 </p>
 
+<p style="text-align: justify; padding-right:10px;">  
+Title: Network-based Perspectives on Two Diverse Disease Scenarios: Rare Diseases and COVID-19 Spread in Spain
+
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Abstract of the talk: In this talk, I will present two different network-based approaches adapted to two very distinct disease scenarios.
+
+The first scenario addresses the challenges posed by small sample sizes in the study of rare diseases. I will introduce a novel methodology that overcomes these limitations by leveraging a multilayer framework incorporating patient data and real-world data. This innovative approach identifies clusters of patients exhibiting disease-specific characteristics, focusing in deciphering the molecular basis of disease severity - an important but many time elusive medical problem  (1).
+
+The second scenario focuses on the analysis of population mobility's impact on the spread of COVID-19. In this case we used Transfer Entropy, a powerful analytical tool, the relationship between mobility and disease incidence in the dense network connecting Spanish regions. I will show how Transfer Entropy data can pinpoint potential causes of disease waves in different locations and assess the effects of mobility restriction measures (2).
+
+Throughout the talk, three common challenges encountered in these studies will be discussed: the complexity of underlying data, the increasing demand for computational power, and the intricacies of the interpretation of biomedical data.
+
+References:
+(1) 
+Núňez-Carpintero et al., 2023. Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes. bioRxiv. 2023.01.19.524736,
+Núňez-Carpintero et al., 2021. The multilayer community structure of medulloblastoma. i-science 24.
+
+(2) 
+Smith et al., 2022. Evaluating the policy of closing bars and restaurants in Cataluña and its effects on mobility and COVID19 incidence. Scientific Reports 12, 9132.
+Ponce-de-Leon et al, 2021. COVID-19 Flow-Maps an open geographic information system on COVID-19 and human mobility for Spain. Scientific Data 8, 310. Pontes C., Ponce-de-Leon M, Arenas A, Valencia A. (2023)
+</p>
+
 <hr />
 	
 
