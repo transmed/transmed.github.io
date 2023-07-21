@@ -88,7 +88,7 @@ Throughout the talk, three common challenges encountered in these studies will b
 
 <p style="text-align: justify; padding-right:10px;">  
 References:
-
+</p>
 (1): 
 
 Núňez-Carpintero et al., 2023. Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes. bioRxiv. 2023.01.19.524736,
@@ -102,7 +102,7 @@ Smith et al., 2022. Evaluating the policy of closing bars and restaurants in Cat
 Ponce-de-Leon et al, 2021. COVID-19 Flow-Maps an open geographic information system on COVID-19 and human mobility for Spain. Scientific Data 8, 310. 
 
 Pontes C., Ponce-de-Leon M, Arenas A, Valencia A. (2023)
-</p>
+
 
 <hr />
 	
