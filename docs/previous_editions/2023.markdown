@@ -1,0 +1,191 @@
+---
+layout: default
+title: TransMed 2023 Meeting
+permalink: /TransMed2023/
+---
+
+
+## Description
+
+<img src="pics/transmed_logo.jpg" alt="drawin" style="float: left" width="120"/> 
+
+<p style="text-align: justify;"> Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.</p>
+
+In the TransMed COSI meeting, we will explore the current status of computational biology approaches within the field of translational medicine. 
+
+Information of previous TransMed meeting(s) can be found [here](https://transmed.github.io/TransMed_history).
+
+Link to the ISMB/ECCB 2023 website is: [here](https://www.iscb.org/ismbeccb2023).
+
+Please note:
+
+<span style="color:red">The TransMed 2023 meeting takes place in Lyon, France, on July 23-27, 2023, during the ISMB/ECCB 2023 conference. </span>
+
+## Topics of interest
+
+Topics of interest include, but are not limited to:
+
+<p style="text-align: justify;">
+ * <b>Clinical and molecular data storage and integration infrastructure</b>, including: data warehousing for translational medicine, multi-‘omics and clinical data integration, data visualization in translational medicine </p>
+
+<p style="text-align: justify;">
+  * <b>Curation and harmonization of clinical, ‘omics and imaging data</b>, including: standards and ontologies in translational medicine, biomedical text mining and semantic representation
+</p>
+<p style="text-align: justify;">
+  * <b>Data analytics for patient stratification, biomarker and target discovery</b>, including: disease subtype discovery, Electronic Health Records integration, translational imaging, multi-scale modelling, high performance and cloud computing in translational medicine, mathematical modelling for disease processes, pathways and networks
+</p>
+<p style="text-align: justify;">
+  * <b>Computational approaches for target selection and drug discovery</b>, including: druggability assessment and target selection, polypharmacology, drug reuse, chemical library design, virtual screening technologies, drug discovery enabler pipelines and databases, chemical tool analysis
+</p>
+<p style="text-align: justify;">
+  * <b>ADME/PK and Tox models</b>, including: databases and modeling approaches for ADME and PK, machine learning approaches to predicting toxicity, modeling of pharmacokinetics to man and model organism utility models
+</p>
+<p style="text-align: justify;">
+ * <b>Translational Medicine Informatics Applications/Case Studies</b>, including: Next generation sequencing annotation and biomedicine applications, clinical data integration and application
+</p>
+
+## Keynote speakers
+
+<hr />
+
+**[Dr. Maggie Chon U Cheang](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-maggie-cheang)**, Integrative Genomic Analysis in Clinical Trials, CRUK Clinical Trials and Statistics Unit, Division of Clinical Studies, The Institute of Cancer Research, London, UK
+<img align="right" src="../pics/keynote2023/MaggieCheang.JPG" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Dr. Maggie Cheang is the Group Leader of the Integrative Genomics Analysis in clinical trials, Division of Clinical Studies, ICR. Her primary research focus is to identify biomarkers that would be clinically relevant. Combining biological knowledge and advanced statistical analytics/machine learning to model the multi-scale multi- “omics data” with clinical outcome, her team has been developing multi-parametric molecular classifiers to predict sensitivity and resistance of tumour biological subtype to therapeutic agents and testing the performance of one of these integrated omics/mathematical algorithms within a Phase III clinical trial at this moment. She co-invented the 50 genes-based classifier for the intrinsic subtypes of breast cancer, commonly known as PAM50, which is licensed as Prosigna and has been implemented into multiple international clinical practice guidelines. She chairs the UK National Cancer Research Institute (NCRI) Clinical Trial Pathology Advisory Group, a group that spearheaded the concept of implementing a multidisciplinary proposal guidance. She also sits on various grant review panels including the MRC/UKRI and Breast Cancer Now scientific grant committee. 
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Title: Integrative analysis of multi-scale multi-omics data in clinical trials to predict treatment response
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Abstract of the talk: My group is embedded within the CRUK Clinical Trials and Statistics Unit at The Institute of Cancer Research (ICR-CTSU), and my research passion has always been to identify and develop robust multi-parametric or multi-modal signatures for molecular stratification that would be clinically relevant, by unravelling the tumour complexities and undertaking discovery science within trials. In this presentation, I would discuss, with the aid of a few exemplars, the multidisciplinary approaches that we have applied on understanding the molecular characteristics of tumours to develop better diagnostics tools (e.g., companion diagnostic assay) to pair patients with optimal anti-cancer treatments, informing future trial designs and to tackle the challenges of heterogeneity in treatment response. 
+</p>
+
+<hr />
+  
+**[Prof. Alfonso Valencia](https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology)**, Barcelona Supercomputing Center (BSC),  Spanish National Bioinformatics Institute (INB-ISCIII), ELIXIR-ES and IMPaCT
+<img align="right" src="../pics/keynote2023/AlfonsoValencia.jpg" width="150" style="padding-left:16px"/>
+
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES and coordinator of the data pillar of the Spanish Personalised Medicine intiative, IMPaCT. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution, disease networks and more recently modelling cellular systems (digital twins). He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of the ELIXIR infrastructure, founder of the Spanish and International Bioinformatics networks and former president of ISCB, the international professional association of Bioinformaticians. He is Executive Editor of the main journal in the field (Bioinformatics OUP). 
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Title: Network-based Perspectives on Two Diverse Disease Scenarios: Rare Diseases and COVID-19 Spread in Spain
+
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Abstract of the talk: In this talk, I will present two different network-based approaches adapted to two very distinct disease scenarios.
+
+The first scenario addresses the challenges posed by small sample sizes in the study of rare diseases. I will introduce a novel methodology that overcomes these limitations by leveraging a multilayer framework incorporating patient data and real-world data. This innovative approach identifies clusters of patients exhibiting disease-specific characteristics, focusing in deciphering the molecular basis of disease severity - an important but many time elusive medical problem  (1).
+
+The second scenario focuses on the analysis of population mobility's impact on the spread of COVID-19. In this case we used Transfer Entropy, a powerful analytical tool, the relationship between mobility and disease incidence in the dense network connecting Spanish regions. I will show how Transfer Entropy data can pinpoint potential causes of disease waves in different locations and assess the effects of mobility restriction measures (2).
+
+Throughout the talk, three common challenges encountered in these studies will be discussed: the complexity of underlying data, the increasing demand for computational power, and the intricacies of the interpretation of biomedical data.
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+References:
+</p>
+(1): 
+
+Núňez-Carpintero et al., 2023. Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes. bioRxiv. 2023.01.19.524736,
+
+Núňez-Carpintero et al., 2021. The multilayer community structure of medulloblastoma. i-science 24.
+
+(2): 
+
+Smith et al., 2022. Evaluating the policy of closing bars and restaurants in Cataluña and its effects on mobility and COVID19 incidence. Scientific Reports 12, 9132.
+
+Ponce-de-Leon et al, 2021. COVID-19 Flow-Maps an open geographic information system on COVID-19 and human mobility for Spain. Scientific Data 8, 310. 
+
+Pontes C., Ponce-de-Leon M, Arenas A, Valencia A. (2023)
+
+
+<hr />
+	
+
+## Agenda
+
+Please check it [here](https://www.iscb.org/ismbeccb2023-programme/tracks/transmed).
+
+## Abstract submission
+
+<!-- Authors are invited to submit abstracts (1 page) for presentations and posters by <span style="color:red">May 6, 2021</span>. Acceptance notification will be sent out by <span style="color:blue">May 27, 2021</span>. The deadline for late poster submission is June 3, 2021, with acceptance notification on June 10, 2021. 
+
+For proceedings submission, the deadline is <span style="color:blue">January 28, 2021</span>.
+
+Please use the EasyChair submission system [here](https://easychair.org/conferences/?conf=ismbeccb2021abstracts). 
+
+Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.-->
+
+Please follow the abstract submission indications from [the ISMB/ECCB 2023 website](https://www.iscb.org/ismbeccb2023-submissions/abstracts#about).
+
+## Key dates
+
+
+Detailed information can be found: [here](https://www.iscb.org/ismbeccb2023-dates).
+
+## Registration
+Please follow the registration page on the [ISCB website](https://www.iscb.org/ismbeccb2023-register).
+
+## Organizing committee
+
+**Venkata Satagopam** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Reinhard Schneider** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Maria Secrier** - [University College London](https://www.ucl.ac.uk/), UK
+
+**Wei Gu** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Sanne Abeln** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
+
+**Heba Sailem** - [King’s College London](https://www.hebasailem.com), UK
+
+**Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
+
+**Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
+
+Meet the Organizing committee [here](https://transmed.github.io/team/).
+
+## Programme committee (alphabetical order)
+
+Marcio Luis Acencio -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Basel Alshaikhdeeb -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
+
+Soumyabrata Ghosh -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Mirek Kratochvil -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Shaman Narayanasamy -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+Xinhui  Wang -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+
+
+## Contact us
+
+If you have any questions, please do not hesitate to contact us by our [slack workspace](https://ismbtransmedcosi.slack.com).
+
+## Follow us
+
+Twitter: [@TransMedISMB](https://twitter.com/TransMedISMB)
+
+Linkedin: [Translational Medical Informatics Group](https://www.linkedin.com/groups/8478286)
+
+## Open positions
+
+Please check our page on open positions [here](https://transmed.github.io/open-positions/). Alternatively, please feel free to contact us directly.
+
+## Acknowledgement
+
+The current TransMed logo was designed by Belinda Hanson.
+
