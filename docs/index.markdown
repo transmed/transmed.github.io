@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TransMed 2023
+# TransMed 2024
 
 ## Description
 
@@ -14,11 +14,11 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](https://transmed.github.io/TransMed_history).
 
-Link to the ISMB/ECCB 2023 website is: [here](https://www.iscb.org/ismbeccb2023).
+Link to the ISMB 2024 website is: [here](https://www.iscb.org/ismb2024).
 
 Please note:
 
-<span style="color:red">The TransMed 2023 meeting takes place in Lyon, France, on July 23-27, 2023, during the ISMB/ECCB 2023 conference. </span>
+<span style="color:red">The TransMed 2024 meeting takes place in Montreal, Canada, on July 16, 2024, during the ISMB 2024 conference. </span>
 
 ## Topics of interest
 
@@ -47,61 +47,7 @@ Topics of interest include, but are not limited to:
 
 <hr />
 
-**[Dr. Maggie Chon U Cheang](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-maggie-cheang)**, Integrative Genomic Analysis in Clinical Trials, CRUK Clinical Trials and Statistics Unit, Division of Clinical Studies, The Institute of Cancer Research, London, UK
-<img align="right" src="../pics/keynote2023/MaggieCheang.JPG" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">  
-Biography: Dr. Maggie Cheang is the Group Leader of the Integrative Genomics Analysis in clinical trials, Division of Clinical Studies, ICR. Her primary research focus is to identify biomarkers that would be clinically relevant. Combining biological knowledge and advanced statistical analytics/machine learning to model the multi-scale multi- “omics data” with clinical outcome, her team has been developing multi-parametric molecular classifiers to predict sensitivity and resistance of tumour biological subtype to therapeutic agents and testing the performance of one of these integrated omics/mathematical algorithms within a Phase III clinical trial at this moment. She co-invented the 50 genes-based classifier for the intrinsic subtypes of breast cancer, commonly known as PAM50, which is licensed as Prosigna and has been implemented into multiple international clinical practice guidelines. She chairs the UK National Cancer Research Institute (NCRI) Clinical Trial Pathology Advisory Group, a group that spearheaded the concept of implementing a multidisciplinary proposal guidance. She also sits on various grant review panels including the MRC/UKRI and Breast Cancer Now scientific grant committee. 
-</p>
-
-<p style="text-align: justify; padding-right:10px;">  
-Title: Integrative analysis of multi-scale multi-omics data in clinical trials to predict treatment response
-</p>
-
-<p style="text-align: justify; padding-right:10px;">  
-Abstract of the talk: My group is embedded within the CRUK Clinical Trials and Statistics Unit at The Institute of Cancer Research (ICR-CTSU), and my research passion has always been to identify and develop robust multi-parametric or multi-modal signatures for molecular stratification that would be clinically relevant, by unravelling the tumour complexities and undertaking discovery science within trials. In this presentation, I would discuss, with the aid of a few exemplars, the multidisciplinary approaches that we have applied on understanding the molecular characteristics of tumours to develop better diagnostics tools (e.g., companion diagnostic assay) to pair patients with optimal anti-cancer treatments, informing future trial designs and to tackle the challenges of heterogeneity in treatment response. 
-</p>
-
-<hr />
-  
-**[Prof. Alfonso Valencia](https://www.bsc.es/discover-bsc/organisation/scientific-structure/computational-biology)**, Barcelona Supercomputing Center (BSC),  Spanish National Bioinformatics Institute (INB-ISCIII), ELIXIR-ES and IMPaCT
-<img align="right" src="../pics/keynote2023/AlfonsoValencia.jpg" width="150" style="padding-left:16px"/>
-
-<p style="text-align: justify; padding-right:10px;">  
-Biography: Prof. Alfonso Valencia is ICREA research Professor, Director of the Life Sciences Department of the Barcelona Supercomputing Center, Director of the Spanish National Bioinformatics Institute INB/ELIXIR-ES and coordinator of the data pillar of the Spanish Personalised Medicine intiative, IMPaCT. His research interest is the development of Computational Biology methods and their application to biomedical problems. Some of the computational methods he developed are considered pioneering work in areas such as biological text mining, protein coevolution, disease networks and more recently modelling cellular systems (digital twins). He participates in some of the key cancer related international consortia. In terms of community services, he is one of the initial promoters of the ELIXIR infrastructure, founder of the Spanish and International Bioinformatics networks and former president of ISCB, the international professional association of Bioinformaticians. He is Executive Editor of the main journal in the field (Bioinformatics OUP). 
-</p>
-
-<p style="text-align: justify; padding-right:10px;">  
-Title: Network-based Perspectives on Two Diverse Disease Scenarios: Rare Diseases and COVID-19 Spread in Spain
-
-</p>
-
-<p style="text-align: justify; padding-right:10px;">  
-Abstract of the talk: In this talk, I will present two different network-based approaches adapted to two very distinct disease scenarios.
-
-The first scenario addresses the challenges posed by small sample sizes in the study of rare diseases. I will introduce a novel methodology that overcomes these limitations by leveraging a multilayer framework incorporating patient data and real-world data. This innovative approach identifies clusters of patients exhibiting disease-specific characteristics, focusing in deciphering the molecular basis of disease severity - an important but many time elusive medical problem  (1).
-
-The second scenario focuses on the analysis of population mobility's impact on the spread of COVID-19. In this case we used Transfer Entropy, a powerful analytical tool, the relationship between mobility and disease incidence in the dense network connecting Spanish regions. I will show how Transfer Entropy data can pinpoint potential causes of disease waves in different locations and assess the effects of mobility restriction measures (2).
-
-Throughout the talk, three common challenges encountered in these studies will be discussed: the complexity of underlying data, the increasing demand for computational power, and the intricacies of the interpretation of biomedical data.
-</p>
-
-<p style="text-align: justify; padding-right:10px;">  
-References:
-</p>
-(1): 
-
-Núňez-Carpintero et al., 2023. Rare disease research workflow using multilayer networks elucidates the molecular determinants of severity in Congenital Myasthenic Syndromes. bioRxiv. 2023.01.19.524736,
-
-Núňez-Carpintero et al., 2021. The multilayer community structure of medulloblastoma. i-science 24.
-
-(2): 
-
-Smith et al., 2022. Evaluating the policy of closing bars and restaurants in Cataluña and its effects on mobility and COVID19 incidence. Scientific Reports 12, 9132.
-
-Ponce-de-Leon et al, 2021. COVID-19 Flow-Maps an open geographic information system on COVID-19 and human mobility for Spain. Scientific Data 8, 310. 
-
-Pontes C., Ponce-de-Leon M, Arenas A, Valencia A. (2023)
+TBD
 
 
 <hr />
@@ -109,7 +55,7 @@ Pontes C., Ponce-de-Leon M, Arenas A, Valencia A. (2023)
 
 ## Agenda
 
-Please check it [here](https://www.iscb.org/ismbeccb2023-programme/tracks/transmed).
+Please check it [here](https://www.iscb.org/ismb2024/submissions/abstracts).
 
 ## Abstract submission
 
@@ -121,15 +67,15 @@ Please use the EasyChair submission system [here](https://easychair.org/conferen
 
 Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.-->
 
-Please follow the abstract submission indications from [the ISMB/ECCB 2023 website](https://www.iscb.org/ismbeccb2023-submissions/abstracts#about).
+Please follow the abstract submission indications from [the ISMB 2024 website](https://www.iscb.org/ismbeccb2023-submissions).
 
 ## Key dates
 
 
-Detailed information can be found: [here](https://www.iscb.org/ismbeccb2023-dates).
+Detailed information can be found: [here](https://www.iscb.org/ismb2024/key-dates).
 
 ## Registration
-Please follow the registration page on the [ISCB website](https://www.iscb.org/ismbeccb2023-register).
+Please follow the registration page on the [ISCB website](https://www.iscb.org/ismb2024/register).
 
 ## Organizing committee
 
