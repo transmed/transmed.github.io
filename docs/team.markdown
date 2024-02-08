@@ -28,10 +28,6 @@ permalink: /team/
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
     </tr>
         <tr>
-    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="SanneAbeln"><img src="../pics/organizers/SanneAbeln.jpg" width="110"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sanne Abeln</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Associate Professor<br />Vrije Universiteit Amsterdam, NL</font></p></td>
-    </tr>
-        <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="HebaSailem"><img src="../pics/organizers/HebaSailem.jpg" width="110"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Heba Sailem</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Senior Lecture<br />King's College London, UK</font></p></td>
     </tr>
@@ -47,6 +43,15 @@ permalink: /team/
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/MansoorSaqi.jpeg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Mansoor Saqi</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Institute of Cancer Research, UK</font></p></td>
     </tr>
+ <tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/no-image.png" width="110"/></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Evert Bosdriesz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Assistant Professor<br>Vrije Universiteit Amsterdam</font></p></td>
+    </tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/HayatSikander.jpeg" width="110"/></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sikander Hayat</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Group Leader in Translational Data Science<br>Institute of Experimental Medicine and Systems Biology, Uniklinik RWTH Aachen</font></p></td>
+    </tr>
+
+
  </table>
 
  We are also extremely grateful to [our colleagues](https://transmed.github.io/TransMed_history/) who were organizers during our previous TransMed meetings.
