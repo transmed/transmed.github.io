@@ -85,35 +85,25 @@ Please follow the registration page on the [ISCB website](https://www.iscb.org/i
 
 **Maria Secrier** - [University College London](https://www.ucl.ac.uk/), UK
 
-**Wei Gu** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
-
 **Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
-
-**Sanne Abeln** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
-
-**Heba Sailem** - [King’s College London](https://www.hebasailem.com), UK
 
 **Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
 
+**Wei Gu** - [Luxembourg Centre For Systems Biomedicine (LCSB)](http://wwwfr.uni.lu/lcsb), University of Luxembourg, Luxembourg
+
+**Heba Sailem** - [King’s College London](https://www.hebasailem.com), UK
+
 **Mansoor Saqi** - [King’s College London](https://www.kcl.ac.uk/), UK
+
+**Evert Bosdriesz** - [Vrije Universiteit Amsterdam](https://research.vu.nl/), NL
+
+**Sikander Hayat** - [Uniklinik RWTH Aachen](https://www.ukaachen.de/en/), Germany
 
 Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
-Marcio Luis Acencio -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-
-Basel Alshaikhdeeb -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-
-Hanna Ćwiek-Kupczyńska - Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
-
-Soumyabrata Ghosh -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-
-Mirek Kratochvil -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-
-Shaman Narayanasamy -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-
-Xinhui  Wang -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+[TBD] 
 
 
 ## Contact us
