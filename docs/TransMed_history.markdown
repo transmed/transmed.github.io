@@ -10,14 +10,11 @@ We are extremely grateful to our colleagues who were organizers during our previ
 
 <p style="text-align: justify;">
  - Prof. Sanne Abeln, Utrecht University, Netherlands - organizer for TransMed 2022 at ISMB2022 in Madison, USA and TransMed 2023 at ISMB/ECCB2023 in Lyon, France
- </p>
 
- <p style="text-align: justify;">
  - Dr. Anoop Mayampurath, University of Wisconsin-Madison, USA - organizer for TransMed 2022 at ISMB2022 in Madison, USA
-</p>
 
  - Prof. Bissan Al-Lazikani, The Institute of Cancer Research, UK - organizer for TransMed 2016 at ISMB2016 in Orlando, USA
- </p>
+</p>
 
 
 ## Information of previous TransMed meetings:
