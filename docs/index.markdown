@@ -55,7 +55,7 @@ TBD
 
 ## Agenda
 
-Please check it [here](https://www.iscb.org/ismb2024/submissions/abstracts).
+Please check it [here](https://www.iscb.org/ismb2024/programme-schedule/cosi-tracks-other-abstracts/transmed) [TBD].
 
 ## Abstract submission
 
@@ -67,7 +67,7 @@ Please use the EasyChair submission system [here](https://easychair.org/conferen
 
 Please note: Participants are encouraged to use the [FAIRDOMHub](https://fairdomhub.org/) platform to create and maintain pages for projects that should be presented during the TransMed 2023.-->
 
-Please follow the abstract submission indications from [the ISMB 2024 website](https://www.iscb.org/ismbeccb2023-submissions).
+Please follow the abstract submission indications from [the ISMB 2024 website](https://www.iscb.org/ismb2024/submissions/abstracts).
 
 ## Key dates
 
