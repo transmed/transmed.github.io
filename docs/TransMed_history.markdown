@@ -6,7 +6,7 @@ permalink: /TransMed_history/
 
 ## Alumni Organizers
 
-We are extremely grateful to our colleagues who were organizers during our previous TransMed meetings.
+We are extremely grateful to our colleagues who were organizers during our previous TransMed meetings:
 
  * Prof. Sanne Abeln, Utrecht University, NL - organizer for TransMed 2022 at ISMB2022 in Madison, USA and TransMed 2023 at ISMB/ECCB2023 in Lyon, France
 

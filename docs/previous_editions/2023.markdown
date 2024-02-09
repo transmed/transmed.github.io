@@ -1,11 +1,11 @@
 ---
 layout: default
-title: TransMed 2021 Meeting
-permalink: /TransMed2021/
+title: TransMed 2023 Meeting
+permalink: /TransMed2023/
 ---
 
 
-# Description 
+## Description
 
 <p style="text-align: justify;"> Knowledge-based translational medicine is a rapidly growing discipline in biomedical research and aims to expedite the discovery of new diagnostic tools and treatments by using a multi-disciplinary, highly collaborative, "bench-to-bedside" approach. Large amounts of multi-omics, imaging (medical and molecular) and clinical data can now be captured for given patient populations. In addition to the challenges of data curation and harmonisation, new computational methods are required to identify molecular signatures that suggest disease subtype. These signatures may be predictive of outcome or progression, and impact on disease management by suggesting personalised therapeutic strategies for patients. Such approaches will further the development of a new taxonomy of disease.</p>
 
