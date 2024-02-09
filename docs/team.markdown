@@ -44,7 +44,7 @@ permalink: /team/
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Mansoor Saqi</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Institute of Cancer Research, UK</font></p></td>
     </tr>
  <tr>
-    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/no-image.png" width="110"/></td>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/EvertBosdriesz.jpeg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Evert Bosdriesz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Assistant Professor<br>Vrije Universiteit Amsterdam, NL</font></p></td>
     </tr>
     <tr>
