@@ -103,11 +103,11 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 
 ## Programme committee (alphabetical order)
 
-Marcio Luis Acencio -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
-Mirek Kratochvil -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg  
+Marcio Luis Acencio -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
+
+Mirek Kratochvil -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg
 
 Xinhui  Wang -  Luxembourg Centre For Systems Biomedicine (LCSB), University of Luxembourg 
-
 
 ## Contact us
 
