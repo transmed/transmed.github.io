@@ -47,7 +47,15 @@ Topics of interest include, but are not limited to:
 
 <hr />
 
-TBD
+**[Prof. Heidi Rehm](https://the-tgg.org/)**, Massachusetts General Hospital, Broad Institute, Harvard Medical School, USA
+<!--<img align="right" src="../pics/keynote2023/MaggieCheang.JPG" width="150" style="padding-left:16px"/>
+-->
+
+<hr />
+  
+**[Dr. Quaid Morris](https://www.mskcc.org/research/ski/labs/quaid-morris)**, Memorial Sloan Kettering Cancer Center, USA
+<!--<img align="right" src="../pics/keynote2023/AlfonsoValencia.jpg" width="150" style="padding-left:16px"/>
+  -->
 
 
 <hr />
