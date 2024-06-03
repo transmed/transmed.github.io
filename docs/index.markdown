@@ -51,12 +51,35 @@ Topics of interest include, but are not limited to:
 <!--<img align="right" src="../pics/keynote2023/MaggieCheang.JPG" width="150" style="padding-left:16px"/>
 -->
 
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Heidi Rehm is an investigator in the Center for Genomic Medicine at MGH, Co-Director of the Program in Medical and Population Genetics at the Broad Institute as well as the Medical Director at Broad Clinical Laboratories. She is a principal investigator of ClinGen and gnomAD, providing resources to support the interpretation of genes and variants. Rehm co-leads the Broad Center for Mendelian Genomics and the Matchmaker Exchange focused on discovering causes of rare disease. She is a strong advocate and pioneer of open science and data sharing, working to extend these approaches as vice chair of the Global Alliance for Genomics and Health. 
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Title: Advancing Genomic Medicine through Clinical and Research Strategies
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Abstract of the talk: Supporting genomics in research and medicine requires infrastructure, including standards, knowledgebases and global data sharing, as well as a rich interface between research and clinical care as new discoveries are made. This talk will present strategies to identify novel causes of rare disease including the application of new technologies and analysis methods as well as building innovative approaches to global data sharing in collaboration with AnVIL and the Global Alliance for Genomics and Health. It will end on novel approaches to support genetics and genomics in medical practice.
+</p>
+
 <hr />
   
 **[Dr. Quaid Morris](https://www.mskcc.org/research/ski/labs/quaid-morris)**, Memorial Sloan Kettering Cancer Center, USA
 <!--<img align="right" src="../pics/keynote2023/AlfonsoValencia.jpg" width="150" style="padding-left:16px"/>
   -->
 
+<p style="text-align: justify; padding-right:10px;">  
+Biography: Quaid Morris is a Member of the Computational and System Biology program at Sloan Kettering Institute and co-Director of the Graduate Program in Computational Biology and Medicine at Weill-Cornell Graduate School. He is also a full professor at the University of Toronto in Molecular Genetics and Computer Science. During his PhD, Dr Morris trained at Massachusetts Institute of Technology and Gatsby Unit in machine learning and computational neuroscience. Morris lab (http://www.morrislab.ai/) uses techniques from machine learning and artificial intelligence to do biomedical research, focusing on cancer genomics, gene regulation, and clinical informatics. 
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Title: The challenges of clinical deployment of automated cancer type classification for routine use 
+</p>
+
+<p style="text-align: justify; padding-right:10px;">  
+Abstract of the talk: Accurate cancer type classifiers would have profound impact on the success of cancer treatment. Each year, in the US, more than 30,000 people present with new cancers of unknown primary (CUP), for which treatment options are very limited. Up to half of these patients could be matched with FDA-approved therapies if their cancer type were known. Cancer type classifiers can also distinguish new cancers from reoccurrences and resolve difficult diagnostic challenges. We recently deployed a highly accurate cancer type classifier, GDD-ENS, at Memorial Sloan Kettering Cancer Center (MSKCC) based on inputs derived from an FDA-approved, and routinely applied, targeted DNA sequencing panel called MSK-IMPACT. GDD-ENS, based on ENSembles of multilayer perceptrons, and replaced a pre-existing MSKCC system, GDD-RF. To make GDD-ENS well-suited to the clinical setting, based on lessons learned from GDD-RF, we made specific design choice in the classifier, in its training and evaluation, and how its outputs are integrated with other routinely available clinical data. I will present GDD-ENS, these choices and their impacts, as well as, GDD-ENS’ successes and some areas of improvement. I will also discuss our efforts to generalize GDD-ENS to other targeted cancer gene panels. Joint work with Dr Michael Berger and our labs.
+</p>
 
 <hr />
 	
