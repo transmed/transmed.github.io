@@ -21,7 +21,7 @@ permalink: /team/
     </tr>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/WeiGu.jpg" width="110"/></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Wei Gu</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Scientific Coordinator and Deputy Head of ELIXIR Luxembourg node, Research Scientist at LCSB, Cofounder of ITTM S.A.<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Wei Gu</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Scientific Coordinator and Deputy Head of ELIXIR Luxembourg node, Head of Service at LNDS, Cofounder of ITTM S.A.<br />Luxembourg National Data Service</font></p></td>
     </tr>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../pics/organizers/IrinaBalaur.jpg" width="110"/></a></td>
@@ -50,6 +50,14 @@ permalink: /team/
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/HayatSikander.jpeg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sikander Hayat</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Group Leader<br>Institute of Experimental Medicine and Systems Biology, Uniklinik RWTH Aachen, Germany</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/AnneLorant.jpg" width="110"/></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anne Lorant</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/SandrineMedves.jpg" width="110"/></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sandrine Medves</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
     </tr>
 
 
