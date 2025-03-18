@@ -25,7 +25,7 @@ permalink: /team/
     </tr>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../pics/organizers/IrinaBalaur.jpg" width="110"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Postdoctoral researcher<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Senior Data Scientist<br />Luxembourg National Data Service</font></p></td>
     </tr>
         <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="HebaSailem"><img src="../pics/organizers/HebaSailem.jpg" width="110"/></a></td>
