@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TransMed 2025
+# TransMed 2026
 
 ## Description
 
