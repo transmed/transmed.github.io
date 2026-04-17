@@ -18,7 +18,7 @@ Link to the ISMB 2026 website is: [here](https://www.iscb.org/ismb2026/home).
 
 Please note:
 
-<span style="color:red">The TransMed 2026 meeting takes place in Washington, DC, USA, on Juyl 15, 2026, during the ISMB 2026 conference. </span>
+<span style="color:red">The TransMed 2026 meeting takes place in Washington, DC, USA, on July 15, 2026, during the ISMB 2026 conference. </span>
 
 ## Topics of interest
 
