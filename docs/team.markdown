@@ -9,7 +9,7 @@ permalink: /team/
 <table>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/VenkataSatagopam.jpg" width="110"/></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Venkata Satagopam</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Deputy Head of Bioinformatics Core Facility<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Venkata Satagopam</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Head of Clinical & Translational Informatics Group<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg</font></p></td>
     </tr>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/organizers/ReinhardSchneider.jpg" width="110"/></td>
