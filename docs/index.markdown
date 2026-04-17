@@ -14,11 +14,11 @@ In the TransMed COSI meeting, we will explore the current status of computationa
 
 Information of previous TransMed meeting(s) can be found [here](https://transmed.github.io/TransMed_history).
 
-Link to the ISMB/ECCB 2025 website is: [here](https://www.iscb.org/ismbeccb2025/home).
+Link to the ISMB 2026 website is: [here](https://www.iscb.org/ismb2026/home).
 
 Please note:
 
-<span style="color:red">The TransMed 2025 meeting takes place in Liverpool, UK, on July 22, 2025, during the ISMB/ECCB 2025 conference. </span>
+<span style="color:red">The TransMed 2026 meeting takes place in Washington, DC, USA, during the ISMB 2026 conference, (which will be held on 12–16 July 2026). </span>
 
 ## Topics of interest
 
@@ -58,15 +58,14 @@ Please check it [here]. [TBD].
 
 ## Abstract submission
 
-Please follow the abstract submission indications from [the ISMB/ECCB 2025 website](https://www.iscb.org/ismbeccb2025/call-for-submissions/abstracts).
+Please follow the abstract submission indications from [the ISMB 2026 website](https://www.iscb.org/ismb2026/call-for-submissions/abstracts).
 
 ## Key dates
 
-
-Detailed information can be found: [here](https://www.iscb.org/ismbeccb2025/key-dates).
+Detailed information can be found: [here](https://www.iscb.org/ismb2026/key-dates).
 
 ## Registration
-Please follow the registration page on the [ISCB website](https://www.iscb.org/ismbeccb2025/register).
+Please follow the registration page on the [ISCB website](https://www.iscb.org/ismb2026/register).
 
 ## Organizing committee
 
@@ -76,7 +75,7 @@ Please follow the registration page on the [ISCB website](https://www.iscb.org/i
 
 **Maria Secrier** - [University College London](https://www.ucl.ac.uk/), UK
 
-**Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](https://www.uni.lu/lcsb-en/), University of Luxembourg, Luxembourg
+**Irina Balaur** - [Luxembourg National Data Service (LNDS)](https://www.lnds.lu/), Luxembourg
 
 **Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
 
@@ -99,6 +98,7 @@ Meet the Organizing committee [here](https://transmed.github.io/team/).
 ## Programme committee (alphabetical order)
 
 TBD
+
 ## Contact us
 
 If you have any questions, please do not hesitate to contact us by our [slack workspace](https://ismbtransmedcosi.slack.com).
