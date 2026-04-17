@@ -79,7 +79,7 @@ Please follow the registration page on the [ISCB website](https://www.iscb.org/i
 
 **Maria Secrier** - [University College London](https://www.ucl.ac.uk/), UK
 
-**Irina Balaur** - [Luxembourg Centre For Systems Biomedicine (LCSB)](https://www.uni.lu/lcsb-en/), University of Luxembourg, Luxembourg
+**Irina Balaur** - [Luxembourg National Data Service (LNDS)](https://www.lnds.lu/), Luxembourg
 
 **Irene Ong** - [University of Wisconsin-Madison](https://www.wisc.edu/), USA
 
