@@ -1,6 +1,9 @@
 ---
 layout: default
+title: TransMed 2025 Meeting
+permalink: /TransMed2025/
 ---
+
 
 # TransMed 2025
 
